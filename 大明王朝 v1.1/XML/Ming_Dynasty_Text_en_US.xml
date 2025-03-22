@@ -1,0 +1,481 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GameData>
+
+	<Language_en_US>
+		<Row Tag="TXT_KEY_LEADER_ZHUZHANJI_FIRSTGREETING">
+			<Text>Welcome! I am Zhu Zhanji, the leader of the Daming Dynasty. Under the world, could it be the land of the king. On the shore of Infinite Boarders, could it be the king's ministers.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ZHUZHANJI_DEFEATED">
+			<Text>Even in the face of failure, Daming will always exist.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_Ming_Dynasty_DESC">
+			<Text>Daming Dynasty</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_Ming_Dynasty_SHORT_DESC">
+			<Text>Daming Dynasty</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_Ming_Dynasty_ADJECTIVE">
+			<Text>Daming Dynasty</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ZHUZHANJI">
+			<Text>Zhu Zhanji</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_ZHUZHANJI_NAME">
+			<Text>Zhu Zhanji</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_MAP_Ming_Dynasty_TEXT">
+			<Text>On the vast territory of the Ming Dynasty, Zhu Zhanji, the Xuanzong of the Ming Dynasty, was like a bright star, shining brightly. Zhu Zhanji was intelligent since childhood and was deeply loved by his grandfather Zhu Di. Under the influence and careful teaching of the court, he was not only familiar with the collection of ancient history, but also had profound insights into the governance of the country. After ascending the throne, Zhu Zhanji showed outstanding political talent. He knew that the people were the foundation of the country, so he implemented a series of policies of light and light, and rest with the people, so that the people who had gone through war could rest and recuperate, and agricultural production quickly recovered and flourished. In the court, he was good at employing people and selecting talents. The cabinet was full of talents, and the monarchs and ministers were of the same mind. Together with his father Ming Renzong, he created the "Renxuan governance" of political clarity and prosperity for the people. Zhu Zhanji also had great military strategies. In the face of the invasion of the Mongolian tribes in the north, he personally marched, stabilized the border situation with bold decisions and heroic posture, and defended the majesty and territorial integrity of the Ming Dynasty. In the field of culture, Zhu Zhanji is even more vigorous in advocating. He loves painting, and his painting skills are exquisite. His works have a unique style and far-reaching artistic conception. Under his leadership, the court culture and art flourished, leaving many precious cultural heritages for future generations. Ming Xuanzong Zhu Zhanji, the great monarch, with his great talent and benevolence, pushed the Ming Dynasty to the peak of prosperity. His achievements are like a towering monument, forever engraved in the long river of history, and will be admired and praised by future generations.
+			[NEWLINE] Our great monarch Zhu Zhanji, your heroic strategy is like a radiant sun, illuminating every inch of Daming's land. Under your guidance, can Daming's brilliance shine forever in the annals of history?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_ZHUZHANJI_SUBTITLE">
+			<Text>Emperor Xuande</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_ZHUZHANJI_TITLES_1">
+			<Text>Xuanzong of the Ming Dynasty</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_ZHUZHANJI_HEADING_1">
+			<Text>领Sleeve introduction</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_ZHUZHANJI_TEXT_1">
+			<Text>Zhu Zhanji, the fifth emperor of the Ming Dynasty, was the son of Zhu Gaochi of Ming Renzong and the Empress Zhang of Chengxiao Zhao. He showed extraordinary intelligence and heroism since childhood, and was deeply loved and carefully cultivated by his grandfather, Emperor Chengzu of Ming. He often followed Zhu Di around, participated in the Northern Expedition and Tour of Fortune, and accumulated military strategy and knowledge of governing the country in actual combat and experience.
+				During Zhu Zhanji's reign, in politics, he rectified the administration of officials, appointed talents, and improved the cabinet system, so that the state administration was efficient and orderly. He was well aware of the importance of people's livelihood, implemented the policy of light and thin, built water conservancy, and encouraged agricultural mulberry, which greatly promoted the prosperity and development of the economy. The people lived a prosperous life, and the society was stable and harmonious.
+				In the military, Zhu Zhanji had excellent leadership skills. In the face of the rebellion of the internal vassal kings, he made a decisive decision, led the personal conquest, quickly quelled Zhu Gaoxu's rebellion, and stabilized the political situation. At the same time, he strengthened the border construction, effectively resisted the invasion of the northern Mongolian tribes, and defended the country's territorial integrity and border peace.
+				Culturally, Zhu Zhanji is good at literature and art. He is not only good at calligraphy and painting, but also quite accomplished in poetry and poetry. His works show a unique artistic style and profound cultural heritage. Under his strong advocacy, the court culture and art flourished, showing a prosperous scene, which had a profound impact on the cultural inheritance of later generations.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_ZHUZHANJI_LIVED">
+			<Text>Born in 1398, died in 1435</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_Ming_Dynasty_TRAIT">
+			<Text>[ICON_BULLET] During the Golden Age, [ICON_RESEARCH] research increased by 20% in all cities,75% reduction in administrative costs in all cities.
+                  [NEWLINE] [ICON_BULLET] Open 10 rounds [ICON_GOLDEN_AGE] Golden Age.
+                  [NEWLINE] [ICON_BULLET] Revenue from foreign trade routes increased by 100%.
+				  [NEWLINE][ICON_BULLET]When the great artists embarked on the golden age, they directly received research points equivalent to half the median of all currently researchable technologies.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_Ming_Dynasty_TRAIT_SHORT">
+			<Text>Xuande Zhizhi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_Ming_Dynasty_ANNOUNCE">
+			<Text>Daming Dynasty, the rule of Xuande!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_Ming_Dynasty_EFFECTS">
+			<Text>
+				The Daming Dynasty has entered a brand new [ICON_GOLDEN_AGE] [COLOR_POSITIVE_TEXT] prosperous era [ENDCOLOR]!
+				[NEWLINE] [NEWLINE] All plots of money output add + 1 [ICON_GOLD] money output, national + 20% [ICON_PRODUCTION] capacity, [ICON_CULTURE] culture.
+				[NEWLINE] 20% increase in [ICON_RESEARCH] research in all cities,75% reduction in administrative costs in all cities.
+				[NEWLINE] If the Daming Nanjing Forbidden City is completed, Additional national experts + 2 [ICON_RESEARCH] scientific research.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_QianQingGong_PALACE">
+			<Text>Qianqing Palace</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_QianQingGong_PALACE_DESC">
+			<Text>Qianqing Palace</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_QianQingGong_PALACE_HELP">
+			<Text>The Qianqing Palace was the main residence of the emperors of the Ming and Qing dynasties in the Forbidden City. It was also the place where the emperors handled daily government affairs, summoned officials, and reviewed memorials. It symbolized the core of imperial power in the feudal dynasty. After Yongle was built in the 18th year of the Ming Dynasty, many major decisions were brewed here, and countless historical events took place here, witnessing the rise and fall of the Ming and Qing dynasties，远古时代以后本城出发商路额外+20[ICON_GOLD]金钱.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_QianQingGong_PALACE_TEXT">
+			<Text>The Qianqing Palace is magnificent and solemn, adopting the highest regulations of traditional Chinese palace architecture, with red walls and yellow tiles and cornice bucket arches, showing the royal majesty. The interior of the palace is beautifully decorated, with gold bricks paved on the floor, and the beams and columns carved with dragons and phoenixes, demonstrating unparalleled dignity and luxury. It is not only the living place of the emperor, but also the hub of the operation of dynastic power. It carries a heavy history and culture, and embodies the superb skills and wisdom of ancient craftsmen.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MING_HUITONGGUAN">  
+            <Text>Huitongguan</Text>  
+		</Row>  
+		<!-- Help tags -->  
+		<Row Tag="TXT_KEY_BUILDING_MING_HUITONGGUAN_HELP">  
+			<Text>+10[ICON_RES_CONSUMER] Goods.[NEWLINE][NEWLINE] Gain two extra trade routes and two free caravans.[NEWLINE][NEWLINE] Must have inns in all cities of the civilization. Construction cost increases with the number of cities.</Text>  
+		</Row>  
+		<!-- Pedia tags -->  
+		<Row Tag="TXT_KEY_BUILDING_MING_HUITONGGUAN_PEDIA">  
+			<Text>The Huitongguan played a crucial role during the Ming Dynasty, serving as an important venue for the Ming government to receive foreign envoys and conduct foreign trade. It gathered exotic treasures from all directions, where merchants and diplomats from different countries congregated, bringing a rich variety of goods and cultures. The building was grand in scale, with complete internal facilities, including dedicated trading areas and accommodations for envoys. Its architectural style combined the elegance and practicality of traditional Chinese architecture. Various commercial and cultural exchange events were frequently held here, promoting trade and cultural dissemination between the Ming Dynasty and countries around the world. Many rare foreign items such as spices, jewels, and medicinal materials flowed into the Ming Dynasty through the Huitongguan, while the Ming's specialties like porcelain, silk, and tea reached the world, making significant contributions to the economic prosperity and cultural exchange of the Ming Dynasty. During this process, many interesting historical stories occurred, and several famous scholars and explorers left their footprints here, witnessing the prosperous scene of that time.</Text>  
+		</Row>  
+		<Row Tag="TXT_KEY_BUILDING_MING_HUITONGGUAN_STRATEGY">  
+			<Text>The Huitongguan is an important trade and diplomatic venue of the Ming Dynasty. It greatly facilitated the circulation of goods and foreign trade while strengthening ties with neighboring countries. Given its powerful trade and economic bonuses, it is recommended to build it in transportation hub cities or coastal trade ports to fully leverage its advantages.</Text>  
+		</Row>  
+		<Row Tag="TXT_KEY_BUILDING_Ming_PALACE">  
+			<Text>Nanjing Imperial Palace of the Ming Dynasty</Text>  
+		</Row>  
+		<Row Tag="TXT_KEY_WONDER_Ming_PALACE_PEDIA">  
+			<Text>The Nanjing Imperial Palace of the Ming Dynasty, also known as the Ming Palace, was established in the 26th year of the Yuan Dynasty's Zhizheng era (1366), and is the royal palace complex from the early Ming Dynasty, as well as the largest palace complex in the world at that time, earning the title of "the world's first palace." It is located in the core area of Nanjing City and served as the political and cultural center of the early Ming Dynasty. The construction of this palace embodied the hard work and wisdom of countless skilled craftsmen. From site selection and planning to construction, every step strictly adhered to the royal regulations and traditional rituals of the feudal dynasty. It features a symmetrical layout centered on a central axis, with a grand front court and rear living quarters, showcasing the ambition and supreme authority of the early Ming Dynasty. The architectural style of the Nanjing Imperial Palace inherits the palace architecture traditions from the Tang and Song dynasties, while also innovating and developing upon them. Its construction materials are exquisite, and the craftsmanship is superb, whether it be the tall palace foundations, intricate wooden carvings and stone engravings, or the colorful glazed tiles, all demonstrating a high level of architectural artistry. It is not only an outstanding representative of ancient Chinese palace architecture but also a valuable historical and cultural heritage of the Chinese nation, witnessing the glory and splendor of the early Ming Dynasty.</Text>  
+		</Row>  
+		<Row Tag="TXT_KEY_WONDER_Ming_PALACE_QUOTE">  
+			<Text>[NEWLINE]"The High Emperor established his capital in Jinling, constructing a new palace with grand designs for the world."[NEWLINE] —— (Ming) Wang Ao</Text>  
+		</Row>  
+		<Row Tag="TXT_KEY_WONDER_Ming_PALACE_HELP">  
+			<Text>Golden Age Length + 50%, 5 additional delegates in the World Conference, all city defense efficiency + 30%, must have castles in all cities of civilization</Text>  
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_Ming_PALACE">  
+			<Text>Tribute from All Nations</Text>  
+		</Row>  
+		<Row Tag="TXT_KEY_PROMOTION_Ming_PALACE_TEXT">  
+			<Text>The Tribute from All Nations of the Ming Dynasty</Text>  
+		</Row>  
+		<Row Tag="TXT_KEY_PROMOTION_Ming_PALACE_DESC">  
+			<Text>The Ming Dynasty is flourishing, with soldiers bravely at the forefront, fighting like ten men.</Text>  
+		</Row>  
+		<Row Tag="TXT_KEY_PROMOTION_Ming_PALACE_HELP">  
+			<Text>Ming soldiers ignore terrain, +1 attack count and movement, increase combat strength by 50% when attacking, immune to most negative status effects.</Text>  
+		</Row>  
+		<Row Tag="TXT_KEY_PROMOTION_Ming_ShenJiYing">  
+			<Text>Iron-Blooded Divine Machine</Text>  
+		</Row>  
+		<Row Tag="TXT_KEY_PROMOTION_Ming_ShenJiYing_TEXT">  
+			<Text>The Iron-Blooded Divine Machine of the Divine Machine Camp of the Ming Dynasty</Text>  
+		</Row>  
+		<Row Tag="TXT_KEY_PROMOTION_Ming_ShenJiYing_DESC">  
+			<Text>The Ming Dynasty is flourishing, with soldiers bravely at the forefront, fighting like ten men, especially the Divine Machine Camp, which is the sharpest.</Text>  
+		</Row>  
+		<Row Tag="TXT_KEY_PROMOTION_Ming_ShenJiYing_HELP">  
+			<Text>Soldiers of the Divine Machine Camp ignore terrain, no resource scarcity penalty, can move after attacking, +1 attack count, movement, and vision, increase combat strength by 75% when attacking, neighboring friendly units gain 50% combat strength, increase combat strength by 75% when attacking cities, +50% combat strength when defending, fully restore health upon defeating enemies, immune to most negative status effects.</Text>  
+		</Row>  
+		<Row Tag="TXT_KEY_PROMOTION_Ming_FoLangJi">  
+			<Text>Thunder of the Divine Land</Text>  
+		</Row>  
+		<Row Tag="TXT_KEY_PROMOTION_Ming_FoLangJi_TEXT">  
+			<Text>The Thunder of the Divine Land from the Flail of the Ming Dynasty</Text>  
+		</Row>  
+		<Row Tag="TXT_KEY_PROMOTION_Ming_FoLangJi_DESC">  
+			<Text>The Ming Dynasty is flourishing, with soldiers bravely at the forefront. If the Divine Machine Camp is the sharpest blade, then the Flail is the most powerful hammer, using the most savage assaults to break the enemy's will to fight, creating conditions for the harvesting of the Divine Machine Camp.</Text>  
+		</Row>  
+		<Row Tag="TXT_KEY_PROMOTION_Ming_FoLangJi_HELP">  
+			<Text>The Ming Flail ignores terrain, no resource scarcity penalty, can move after attacking, +1 attack count, range, movement, and vision, increase combat strength by 100% when attacking, neighboring friendly units gain 50% combat strength, increase combat strength by 200% when attacking cities, deal an additional 10% fixed damage with each attack against a city, fully restore health upon defeating enemies, immune to most negative status effects.</Text>  
+		</Row>  
+		<Row Tag="TXT_KEY_PROMOTION_Ming_ZhengHeTreasureShip">  
+			<Text>The Son of Heaven Arrives, All Nations Submit</Text>  
+		</Row>  
+		<Row Tag="TXT_KEY_PROMOTION_Ming_ZhengHeTreasureShip_TEXT">  
+			<Text>The Son of Heaven of the Ming Dynasty Arrives, All Nations Submit</Text>  
+		</Row>  
+		<Row Tag="TXT_KEY_PROMOTION_Ming_ZhengHeTreasureShip_DESC">  
+			<Text>The Ming Dynasty is flourishing, with soldiers bravely at the forefront, fighting like ten men. The Ming navy, particularly the treasure ships of Zheng He, led by Emperor Xuanzong Zhu Zhanji, is especially fierce, invincible in battle.</Text>  
+		</Row>  
+		<Row Tag="TXT_KEY_PROMOTION_Ming_ZhengHeTreasureShip_HELP">  
+			<Text>The initial health of the Ming treasure ship increases by 100, [NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]When within city-state territory[ENDCOLOR], gain +50[ICON_INFLUENCE] influence each turn (value increases with era), neighboring friendly units gain 50% combat strength, no resource scarcity penalty, can move after attacking, +1 attack count, range, movement, and vision, increase combat strength by 100% when attacking cities, fully restore health upon defeating enemies, gain an additional +100%[ICON_STRENGTH] combat strength when attacking, +100%[ICON_STRENGTH] combat strength when defending, immune to most negative status effects.</Text>  
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_Ming_ShenJiYing">  
+			<Text>Divine Machine Camp of the Ming Dynasty</Text>  
+			<Plurality>2</Plurality>  
+		</Row>  
+		<Row Tag="TXT_KEY_UNIT_Ming_ShenJiYing_HEADING">  
+			<Text>Divine Machine Camp of the Ming Dynasty</Text>  
+		</Row>  
+		<Row Tag="TXT_KEY_UNIT_Ming_ShenJiYing_TEXT">  
+			<Text>The Divine Machine Camp is a special unit in the Ming army responsible for firearms, born out of a specific historical context. During the late Yuan Dynasty, gunpowder weapons were widely used in warfare, and Zhu Yuanzhang recognized the immense power of firearms during the unification wars. When Ming Chengzu Zhu Di personally campaigned in the northern regions, he formally established the Divine Machine Camp based on operational needs. This camp, along with the Five Armies Camp and the Three Thousand Camp, formed the three main camps of the capital army, becoming the core force of the Ming military. The Divine Machine Camp has a strict organization with clearly defined roles, including gunners and arquebusiers, and places great emphasis on training. Soldiers must master the loading of ammunition, aiming, and shooting techniques, as well as participate in formations and tactical drills. Its weaponry is quite advanced, initially equipped with hand cannons that are lethal in close combat; later, arquebuses gradually became the main equipment due to their improved accuracy and range. Additionally, they were also equipped with various artillery such as the flail cannon and the Hongyi cannon, suitable for siege, defense, and field battles. In many wars of the Ming Dynasty, the Divine Machine Camp performed excellently and played a key role multiple times. During the northern expeditions of Ming Chengzu, such as the Battle of Hulan Hushiwen, the Divine Machine Camp formed ranks and fired in unison, working in conjunction with cavalry and infantry, inflicting significant casualties on the enemy. In the defense of Beijing, under the command of Yu Qian, the Divine Machine Camp repeatedly repelled the Wala army, successfully defending the city. The establishment and development of the Divine Machine Camp represent a significant advancement in military technology and tactics during the Ming Dynasty, leading the world in the use of firearms and enhancing national defense capabilities, thereby deterring surrounding nations. However, as political corruption, lax military systems, financial difficulties, outdated weaponry, and insufficient training emerged in the later Ming Dynasty, the combat effectiveness of the Divine Machine Camp gradually declined. By the end of the Ming Dynasty, it struggled to perform effectively in wars against the Later Jin (Qing), suffering repeated defeats.</Text>  
+		</Row>  
+		<Row Tag="TXT_KEY_UNIT_Ming_FoLangJi">  
+			<Text>Ming Flail</Text>  
+			<Plurality>2</Plurality>  
+		</Row>  
+		<Row Tag="TXT_KEY_UNIT_Ming_FoLangJi_HELP">  
+			<Text>Fast and powerful siege unit. Unique unit of the Daming Dynasty, replacing heavy artillery. Has the promotion of Shenzhou Thunder, has indirect firepower, and does not need to prepare for long-range attacks before attacking. Comes with a 1-2 level promotion in formation breaking, and its combat power far exceeds that of ordinary heavy artillery.</Text>  
+		</Row>  
+		<Row Tag="TXT_KEY_UNIT_Ming_FoLangJi_HEADING">  
+			<Text>Ming Flail</Text>  
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_Ming_FoLangJi_TEXT">  
+			<Text>The Ming Flail is a type of firearm that was introduced from the West and widely used during the Ming Dynasty, occupying an important position in the military history of the Ming. "Flail" originally referred to the ancient Chinese term for Portugal, Spain, and other Western countries, and the flail cannon is named after these countries. From the late 15th to early 16th century, Portuguese sailors, leveraging their advanced maritime technology, arrived in Asia, bringing the flail cannon, which attracted the attention of the Ming Dynasty due to its unique design and excellent performance. The flail cannon differs from traditional Chinese artillery in that it employs a structure of a mother cannon and a child cannon, where the mother cannon is the main body and the child cannon is a smaller tube that can be loaded with ammunition. In combat, the child cannon is first loaded with gunpowder and shot, then placed into the mother cannon for firing. This design significantly increases the firing rate of the cannon; compared to traditional artillery that requires a long time to reload, the flail cannon can fire multiple shots in a short period, greatly enhancing sustained firepower. In 1521, a conflict occurred between the Ming Dynasty and Portugal in Tuen Mun, during which the Ming army captured some flail cannons, marking the Ming's first encounter with this advanced weapon. Subsequently, Ming craftsmen began researching and replicating the flail cannon. Due to its obvious advantages, the Ming government took it seriously and ordered large-scale replication and improvement. During the replication process, Ming craftsmen made modifications to the flail cannon to better suit the operational characteristics of the Ming army. The flail cannon played an important role in the military defense and warfare of the Ming Dynasty. Along the northern borders, flail cannons were deployed in large numbers at various passes and fortresses along the Great Wall to fend off invasions from Mongolian nomads. Its long range and strong lethality effectively deterred enemy cavalry, enhancing border defense capabilities. In the southeastern coastal regions, the flail cannon became a key weapon against the Wokou (Japanese pirates). The ships of the Wokou often suffered heavy damage from the bombardment of flail cannons, making it difficult for them to approach the coast for plundering. Additionally, in some major battles, such as the early conflicts between the Ming Dynasty and the Later Jin (Qing), the flail cannon had a significant impact on the battlefield, creating a certain deterrent effect on the enemy. Over time, the number of flail cannons in the Ming army increased, evolving from a small number of captured and replicated units to a widely equipped conventional weapon. It was not only used by the Ming border troops and navy but also found application in some inland garrison troops. The introduction and application of the flail cannon had a profound impact on the military technology and tactics of the Ming Dynasty, prompting changes in the way the Ming army operated, with greater emphasis on the use of firearms and joint operations of multiple arms. Furthermore, the replication and production of the flail cannon also promoted the development of the Ming firearms manufacturing industry, cultivating a group of craftsmen skilled in advanced firearm production techniques. However, by the late Ming Dynasty, with the rise of the Later Jin (Qing) and the further development of Western firearm technology, the flail cannon gradually seemed outdated. The Later Jin army also gradually mastered firearm technology during its wars with the Ming and developed suitable artillery tactics. As more advanced Western artillery, such as the Hongyi cannon, was introduced, the advantages of the flail cannon became less obvious. Nevertheless, its position and role in Ming history remain significant, witnessing the military technological exchange between the Ming Dynasty and the outside world, as well as marking an important phase in the development of firearms in the Ming Dynasty.</Text>  
+		</Row>  
+		<Row Tag="TXT_KEY_UNIT_Ming_ZhengHeTreasureShip">  
+			<Text>[COLOR_YIELD_GOLD]Ming Zheng He's Treasure Ship[ENDCOLOR]</Text>  
+		</Row>  
+		<Row Tag="TXT_KEY_UNIT_Ming_ZhengHeTreasureShip_HELP">  
+			<Text>  
+				The most elite Zheng He's Treasure Ship of the Ming Dynasty, possessing more capabilities than ordinary Zheng He's Treasure Ships:  
+				[NEWLINE][ICON_BULLET]Initial health +100, additional +100%[ICON_STRENGTH] combat strength when attacking, +100%[ICON_STRENGTH] combat strength for ranged defense.  
+				[NEWLINE][ICON_BULLET]Features the special promotion "The Son of Heaven Arrives, All Nations Submit."  
+			</Text>  
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_Ming_ZhengHeTreasureShip_TEXT">  
+			<Text>In the early Ming Dynasty, the national strength was robust. To strengthen connections with foreign countries, promote national prestige, and expand tribute trade, Ming Chengzu Zhu Di dispatched Zheng He to lead expeditions from Nanjing to the Western Pacific and Indian Oceans seven times between 1405 and 1433, visiting over 30 countries and regions. The Zheng He Treasure Ship, as the flagship of the fleet, left a significant mark in the history of world navigation. Its enormous scale is astonishing; historical records indicate that the largest treasure ship was 44 zhang 4 chi long (approximately 151.8 meters) and 18 zhang wide (approximately 61.6 meters), unparalleled in the world at that time, showcasing the advanced shipbuilding skills and strong national power of the Ming Dynasty. The ship was constructed with exquisite craftsmanship, using high-quality ironwood and cedar, and employed watertight compartment technology, dividing the hull into multiple independent chambers, greatly enhancing buoyancy and safety. The sails were massive, made of several pieces of canvas, adjustable according to wind direction and strength to achieve optimal sailing power. The treasure ship was multifunctional and powerful; it served not only as the vessel for Zheng He and other officials, responsible for commanding the entire fleet, but also for carrying large quantities of silk, porcelain, tea, gold, silver, and jewels for trade and tribute. Equipped with advanced navigational instruments such as compasses, odometers, and star boards, the ship provided accurate navigation for long voyages, while its living facilities could accommodate the needs of hundreds of people for extended periods at sea. Zheng He's voyages strengthened China's economic and cultural exchanges with Asian and African countries, promoted the development of friendly relations between China and foreign nations, and spread Chinese culture, allowing the world to learn more about China. It also demonstrated that 15th-century Chinese navigation technology and shipbuilding were at the forefront globally, symbolizing the glorious achievements of ancient Chinese maritime endeavors. The splendid deeds of Zheng He shine brightly in the historical river, inspiring future generations to explore the ocean and pursue progress.</Text>  
+		</Row>  
+		<Row Tag="TXT_KEY_BUILDING_GuoZijian">
+			<Text>国子监</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GuoZijian_DESC">
+			<Text>国子监</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GuoZijian_HELP">
+			<Text>国子监，替代图书馆，1文学家槽位改为2美术家槽位，额外提供3[ICON_GREAT_PEOPLE]大美术家点数。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GuoZijian_TEXT">
+			<Text>国子监，作为中国古代最高学府与教育管理机构，承载着千年的文化传承与学术底蕴。它庄重典雅，红墙青瓦，飞檐斗拱间尽显古朴之风。
+				  踏入国子监，仿若步入知识的殿堂。辟雍殿居于中心，四周庑房错落有致，藏书楼内典籍浩如烟海，经史子集、天文历算、诗词歌赋等各类书籍应有尽有，它们是华夏文明的智慧结晶。
+				  这里汇聚了天下鸿儒，他们言传身教，将儒家经典、治国之道、为人之理悉心传授给莘莘学子。学子们来自五湖四海，在这片知识的沃土里，切磋学问、砥砺德行，共同探寻修身齐家治国平天下的真理。国子监的存在，为国家培育了一代又一代的栋梁之才，推动着中华文明的繁荣与发展，成为古代教育体系中一颗璀璨的明珠。
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_Ming_Dynasty">
+			<Text>大明王朝</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_Ming_Dynasty_DESC">
+			<Text>大明王朝</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_Ming_Dynasty_HELP">
+			<Text>本城出发商路额外+20[ICON_GOLD]金钱。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_Ming_Dynasty_TEXT">
+			<Text>大明王朝永世长存。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ShiBoSi">  
+			<Text>Maritime Trade Office</Text>  
+		</Row>  
+		<Row Tag="TXT_KEY_BUILDING_ShiBoSi_DESC">  
+			<Text>Maritime Trade Office</Text>  
+		</Row>  
+		<Row Tag="TXT_KEY_BUILDING_ShiBoSi_HELP">  
+			<Text>The Maritime Trade Office replaces inns and provides an additional +2[ICON_RESEARCH] research for trade routes departing from this city.</Text>  
+		</Row>  
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_ShiBoSi_TEXT">  
+			<Text>The Maritime Trade Office, throughout the historical development of the Ming Dynasty, acts like a shining lighthouse, guiding the prosperous waves of maritime trade. As the official institution managing foreign trade, its establishment opened up vast economic channels for the nation, bringing a continuous influx of wealth and diverse cultural exchanges.  
+			With its unique functions, the Maritime Trade Office greatly promoted the development of coastal port cities. It meticulously managed import and export trade, attracting merchant ships from around the world, allowing Ming Dynasty products like silk, porcelain, and tea to be sold overseas, while also bringing foreign spices, jewelry, and rare goods into the domestic market. This active trade not only injected rich commercial resources into the cities, stimulating local business growth and significantly enhancing economic output, but also spurred the rise of related industries, increasing the demand and circulation of agricultural products like grain and further promoting agricultural development.  
+			Whether in bustling coastal cities or port towns thriving from trade, the influence of the Maritime Trade Office is omnipresent. It broke the limitations of geography, transcending the boundaries of the oceans, laying a solid foundation for the prosperity of the Ming Dynasty, and becoming an important bridge connecting China and the world, leaving a vivid mark in the river of history.</Text>  
+		</Row>
+
+        <Row Tag="TXT_KEY_CITY_NAME_Ming_Dynasty_01">
+			<Text>[COLOR_GREEN]Shuntianfu[ENDCOLOR]</Text>
+		</Row>
+        <Row Tag="TXT_KEY_CITY_NAME_Ming_Dynasty_02">
+			<Text>Yingtianfu</Text>
+		</Row>
+        <Row Tag="TXT_KEY_CITY_NAME_Ming_Dynasty_03">
+			<Text>Xi'an</Text>
+		</Row>
+        <Row Tag="TXT_KEY_CITY_NAME_Ming_Dynasty_04">
+			<Text>Chengdu</Text>
+		</Row>
+        <Row Tag="TXT_KEY_CITY_NAME_Ming_Dynasty_05">
+			<Text>Taiyuan Prefecture</Text>
+		</Row>
+        <Row Tag="TXT_KEY_CITY_NAME_Ming_Dynasty_06">
+			<Text>Jinan Province</Text>
+		</Row>
+        <Row Tag="TXT_KEY_CITY_NAME_Ming_Dynasty_07">
+			<Text>Kaifeng</Text>
+		</Row>
+        <Row Tag="TXT_KEY_CITY_NAME_Ming_Dynasty_08">
+			<Text>Nanchang Prefecture</Text>
+		</Row>
+        <Row Tag="TXT_KEY_CITY_NAME_Ming_Dynasty_09">
+			<Text>Wuchang</Text>
+		</Row>
+        <Row Tag="TXT_KEY_CITY_NAME_Ming_Dynasty_10">
+			<Text>Fuzhou Prefecture</Text>
+		</Row>
+        <Row Tag="TXT_KEY_CITY_NAME_Ming_Dynasty_11">
+			<Text>Yan'an Province</Text>
+		</Row>
+        <Row Tag="TXT_KEY_CITY_NAME_Ming_Dynasty_12">
+			<Text>Hanzhong</Text>
+		</Row>
+        <Row Tag="TXT_KEY_CITY_NAME_Ming_Dynasty_13">
+			<Text>Pingliang</Text>
+		</Row>
+        <Row Tag="TXT_KEY_CITY_NAME_Ming_Dynasty_14">
+			<Text>Datong</Text>
+		</Row>
+        <Row Tag="TXT_KEY_CITY_NAME_Ming_Dynasty_15">
+			<Text>Fenzhou Prefecture</Text>
+		</Row>
+        <Row Tag="TXT_KEY_CITY_NAME_Ming_Dynasty_16">
+			<Text>Yanzhou Prefecture</Text>
+		</Row>
+        <Row Tag="TXT_KEY_CITY_NAME_Ming_Dynasty_17">
+			<Text>Cheongju Prefecture</Text>
+		</Row>
+        <Row Tag="TXT_KEY_CITY_NAME_Ming_Dynasty_18">
+			<Text>Henan Province</Text>
+		</Row>
+        <Row Tag="TXT_KEY_CITY_NAME_Ming_Dynasty_19">
+			<Text>Wei Fai Fu</Text>
+		</Row>
+        <Row Tag="TXT_KEY_CITY_NAME_Ming_Dynasty_20">
+			<Text>Hangzhou Province</Text>
+		</Row>
+        <Row Tag="TXT_KEY_CITY_NAME_Ming_Dynasty_21">
+			<Text>Wenzhou Prefecture</Text>
+		</Row>
+        <Row Tag="TXT_KEY_CITY_NAME_Ming_Dynasty_22">
+			<Text>Jiaxing Province</Text>
+		</Row>
+        <Row Tag="TXT_KEY_CITY_NAME_Ming_Dynasty_23">
+			<Text>Yuanzhou Prefecture</Text>
+		</Row>
+        <Row Tag="TXT_KEY_CITY_NAME_Ming_Dynasty_24">
+			<Text>Ganzhou Prefecture</Text>
+		</Row>
+        <Row Tag="TXT_KEY_CITY_NAME_Ming_Dynasty_25">
+			<Text>Ji'an</Text>
+		</Row>
+        <Row Tag="TXT_KEY_CITY_NAME_Ming_Dynasty_26">
+			<Text>Yunyang Prefecture</Text>
+		</Row>
+        <Row Tag="TXT_KEY_CITY_NAME_Ming_Dynasty_27">
+			<Text>Hanyang Prefecture</Text>
+		</Row>
+        <Row Tag="TXT_KEY_CITY_NAME_Ming_Dynasty_28">
+			<Text>Changsha Mansion</Text>
+		</Row>
+        <Row Tag="TXT_KEY_CITY_NAME_Ming_Dynasty_29">
+			<Text>Yongzhou Prefecture</Text>
+		</Row>
+        <Row Tag="TXT_KEY_CITY_NAME_Ming_Dynasty_30">
+			<Text>Yuezhou Prefecture</Text>
+		</Row>
+        <Row Tag="TXT_KEY_CITY_NAME_Ming_Dynasty_31">
+			<Text>Jiading</Text>
+		</Row>
+        <Row Tag="TXT_KEY_CITY_NAME_Ming_Dynasty_32">
+			<Text>Chongqing Mansion</Text>
+		</Row>
+        <Row Tag="TXT_KEY_CITY_NAME_Ming_Dynasty_33">
+			<Text>Guilin Prefecture</Text>
+		</Row>
+        <Row Tag="TXT_KEY_CITY_NAME_Ming_Dynasty_34">
+			<Text>Ping Lok Phu</Text>
+		</Row>
+        <Row Tag="TXT_KEY_CITY_NAME_Ming_Dynasty_35">
+			<Text>Wuzhou Prefecture</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_Ming_Dynasty_36">
+			<Text>Yanping</Text>
+		</Row>
+        <Row Tag="TXT_KEY_CITY_NAME_Ming_Dynasty_37">
+			<Text>Jianning</Text>
+		</Row>
+        <Row Tag="TXT_KEY_CITY_NAME_Ming_Dynasty_38">
+			<Text>Guiyang Prefecture</Text>
+		</Row>
+        <Row Tag="TXT_KEY_CITY_NAME_Ming_Dynasty_39">
+			<Text>Yunnan Province</Text>
+		</Row>
+        <Row Tag="TXT_KEY_CITY_NAME_Ming_Dynasty_40">
+			<Text>Jiaozhou Prefecture</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_Ming_Dynasty_41">  
+			<Text>Lanling</Text>  
+		</Row>  
+		<Row Tag="TXT_KEY_CITY_NAME_Ming_Dynasty_42">  
+			<Text>Luzhou</Text>  
+		</Row>  
+        <Row Tag="TXT_KEY_CITY_NAME_Ming_Dynasty_43">  
+			<Text>Huizhou</Text>  
+		</Row>  
+		<Row Tag="TXT_KEY_CITY_NAME_Ming_Dynasty_44">  
+			<Text>Tongqiu</Text>  
+		</Row>  
+		<Row Tag="TXT_KEY_CITY_NAME_Ming_Dynasty_45">  
+			<Text>Yuzhou</Text>  
+		</Row>  
+		<Row Tag="TXT_KEY_CITY_NAME_Ming_Dynasty_46">  
+			<Text>Yongjia</Text>  
+		</Row>  
+		<Row Tag="TXT_KEY_CITY_NAME_Ming_Dynasty_47">  
+			<Text>Mianyang</Text>  
+		</Row>  
+		<Row Tag="TXT_KEY_CITY_NAME_Ming_Dynasty_48">  
+			<Text>Luling</Text>  
+		</Row>  
+		<Row Tag="TXT_KEY_CITY_NAME_Ming_Dynasty_49">  
+			<Text>Pingyang</Text>  
+		</Row>  
+		<Row Tag="TXT_KEY_CITY_NAME_Ming_Dynasty_50">  
+			<Text>Hedong</Text>  
+		</Row>  
+		<Row Tag="TXT_KEY_CITY_NAME_Ming_Dynasty_51">  
+			<Text>Huiji</Text>  
+		</Row>  
+
+		<Row Tag="TXT_KEY_SPY_NAME_Ming_Dynasty_1">  
+			<Text>Li Jiang</Text>  
+		</Row>  
+		<Row Tag="TXT_KEY_SPY_NAME_Ming_Dynasty_2">  
+			<Text>Mi Yue</Text>  
+		</Row>  
+		<Row Tag="TXT_KEY_SPY_NAME_Ming_Dynasty_3">  
+			<Text>Hua Yang</Text>  
+		</Row>  
+		<Row Tag="TXT_KEY_SPY_NAME_Ming_Dynasty_4">  
+			<Text>Diao Chan</Text>  
+		</Row>  
+		<Row Tag="TXT_KEY_SPY_NAME_Ming_Dynasty_5">  
+			<Text>Xi Shi</Text>  
+		</Row>  
+		<Row Tag="TXT_KEY_SPY_NAME_Ming_Dynasty_6">  
+			<Text>Wang Zhaojun</Text>  
+		</Row>  
+		<Row Tag="TXT_KEY_SPY_NAME_Ming_Dynasty_7">  
+			<Text>Shi Meixi</Text>  
+		</Row>  
+		<Row Tag="TXT_KEY_SPY_NAME_Ming_Dynasty_8">  
+			<Text>Zhen Mi</Text>  
+		</Row>  
+		<Row Tag="TXT_KEY_SPY_NAME_Ming_Dynasty_9">  
+			<Text>Dun Er</Text>  
+		</Row>  
+		<Row Tag="TXT_KEY_SPY_NAME_Ming_Dynasty_10">  
+			<Text>Duan Zixuan</Text>  
+		</Row>  
+		<Row Tag="TXT_KEY_SPY_NAME_Ming_Dynasty_11">  
+			<Text>Bian Yujing</Text>  
+		</Row>  
+		<Row Tag="TXT_KEY_SPY_NAME_Ming_Dynasty_12">  
+			<Text>Du Shiniang</Text>  
+		</Row>  
+		<Row Tag="TXT_KEY_SPY_NAME_Ming_Dynasty_13">  
+			<Text>Liu Qiuhen</Text>  
+		</Row>  
+		<Row Tag="TXT_KEY_SPY_NAME_Ming_Dynasty_14">  
+			<Text>Yang Yuhuan</Text>  
+		</Row>  
+		<Row Tag="TXT_KEY_SPY_NAME_Ming_Dynasty_15">  
+			<Text>Zhao Hede</Text>  
+		</Row>  
+		<Row Tag="TXT_KEY_SPY_NAME_Ming_Dynasty_16">  
+			<Text>Wang Yuyan</Text>  
+		</Row>  
+		<Row Tag="TXT_KEY_SPY_NAME_Ming_Dynasty_17">  
+			<Text>Du Caiqiu</Text>  
+		</Row>  
+		<Row Tag="TXT_KEY_SPY_NAME_Ming_Dynasty_18">  
+			<Text>Yu Xianji</Text>  
+		</Row>  
+		<Row Tag="TXT_KEY_SPY_NAME_Ming_Dynasty_19">  
+			<Text>Li Shishi</Text>  
+		</Row>  
+		<Row Tag="TXT_KEY_SPY_NAME_Ming_Dynasty_20">  
+			<Text>Lexington</Text>  
+		</Row>  
+		<Row Tag="TXT_KEY_SPY_NAME_Ming_Dynasty_21">  
+			<Text>Bo Ji</Text>  
+		</Row>  
+		<Row Tag="TXT_KEY_SPY_NAME_Ming_Dynasty_22">  
+			<Text>Zhang Chunhua</Text>  
+		</Row>  
+		<Row Tag="TXT_KEY_SPY_NAME_Ming_Dynasty_23">  
+			<Text>Xiang Fu Ren</Text>  
+		</Row>  
+		<Row Tag="TXT_KEY_SPY_NAME_Ming_Dynasty_24">  
+			<Text>Zhang Lihua</Text>  
+		</Row>  
+		<Row Tag="TXT_KEY_SPY_NAME_Ming_Dynasty_25">  
+			<Text>Su Daji</Text>  
+		</Row>  
+		<Row Tag="TXT_KEY_SPY_NAME_Ming_Dynasty_26">  
+			<Text>Shangguan Wan'er</Text>  
+		</Row>  
+		<Row Tag="TXT_KEY_SPY_NAME_Ming_Dynasty_27">  
+			<Text>Yang Xinyi</Text>  
+		</Row>  
+		<Row Tag="TXT_KEY_SPY_NAME_Ming_Dynasty_28">  
+			<Text>Lu Hongxue</Text>  
+		</Row>  
+		<Row Tag="TXT_KEY_SPY_NAME_Ming_Dynasty_29">  
+			<Text>Du Jingmei</Text>  
+		</Row>  
+		<Row Tag="TXT_KEY_SPY_NAME_Ming_Dynasty_30">  
+			<Text>Naisha</Text>  
+		</Row>
+    </Language_en_US>
+
+</GameData>

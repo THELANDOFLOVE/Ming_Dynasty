@@ -1,0 +1,1 @@
+-- ALTER TABLE Traits ADD COLUMN `ArtistGoldenAgeTechBoost` BOOLEAN NOT NULL DEFAULT 0; 
