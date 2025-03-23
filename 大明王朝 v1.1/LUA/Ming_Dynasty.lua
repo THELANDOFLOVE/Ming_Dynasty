@@ -168,25 +168,3 @@ function ZhengHe(iPlayer)
 end
 
 GameEvents.PlayerDoTurn.Add(ZhengHe)
-function MingDynastyBuilding(playerID)
-	local player = Players[playerID]
-	
-	if player == nil or player:IsBarbarian() or player:IsMinorCiv() or player:GetNumCities() <= 0 then
-		return
-	end
-
-	for city in player:Cities() do
-		if city:IsHasBuilding(GameInfoTypes["BUILDING_QianQingGong_PALACE"])  then
-			print ("大明时代加成")
-			MingKnowledge (city,player)
-		end
-	end
-	
-end
-GameEvents.PlayerSetEra.Add(MingDynastyBuilding)
-	
-function MingKnowledge (city,player)
-	local timeNum = player:GetCurrentEra()
-	print ("根据时代获取建筑:",timeNum)
-	city:SetNumRealBuilding(GameInfoTypes["BUILDING_Ming_Dynasty"],timeNum)
-end

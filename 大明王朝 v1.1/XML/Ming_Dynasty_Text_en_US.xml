@@ -75,7 +75,7 @@
 			<Text>Qianqing Palace</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_QianQingGong_PALACE_HELP">
-			<Text>The Qianqing Palace was the main residence of the emperors of the Ming and Qing dynasties in the Forbidden City. It was also the place where the emperors handled daily government affairs, summoned officials, and reviewed memorials. It symbolized the core of imperial power in the feudal dynasty. After Yongle was built in the 18th year of the Ming Dynasty, many major decisions were brewed here, and countless historical events took place here, witnessing the rise and fall of the Ming and Qing dynasties，远古时代以后本城出发商路额外+20[ICON_GOLD]金钱.</Text>
+			<Text>The Qianqing Palace was the main residence of the emperors of the Ming and Qing dynasties in the Forbidden City. It was also the place where the emperors handled daily government affairs, summoned officials, and reviewed memorials. It symbolized the core of imperial power in the feudal dynasty. After Yongle was built in the 18th year of the Ming Dynasty, many major decisions were brewed here, and countless historical events took place here, witnessing the rise and fall of the Ming and Qing dynasties.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_QianQingGong_PALACE_TEXT">
 			<Text>The Qianqing Palace is magnificent and solemn, adopting the highest regulations of traditional Chinese palace architecture, with red walls and yellow tiles and cornice bucket arches, showing the royal majesty. The interior of the palace is beautifully decorated, with gold bricks paved on the floor, and the beams and columns carved with dragons and phoenixes, demonstrating unparalleled dignity and luxury. It is not only the living place of the emperor, but also the hub of the operation of dynastic power. It carries a heavy history and culture, and embodies the superb skills and wisdom of ancient craftsmen.</Text>
@@ -191,31 +191,19 @@
 			<Text>In the early Ming Dynasty, the national strength was robust. To strengthen connections with foreign countries, promote national prestige, and expand tribute trade, Ming Chengzu Zhu Di dispatched Zheng He to lead expeditions from Nanjing to the Western Pacific and Indian Oceans seven times between 1405 and 1433, visiting over 30 countries and regions. The Zheng He Treasure Ship, as the flagship of the fleet, left a significant mark in the history of world navigation. Its enormous scale is astonishing; historical records indicate that the largest treasure ship was 44 zhang 4 chi long (approximately 151.8 meters) and 18 zhang wide (approximately 61.6 meters), unparalleled in the world at that time, showcasing the advanced shipbuilding skills and strong national power of the Ming Dynasty. The ship was constructed with exquisite craftsmanship, using high-quality ironwood and cedar, and employed watertight compartment technology, dividing the hull into multiple independent chambers, greatly enhancing buoyancy and safety. The sails were massive, made of several pieces of canvas, adjustable according to wind direction and strength to achieve optimal sailing power. The treasure ship was multifunctional and powerful; it served not only as the vessel for Zheng He and other officials, responsible for commanding the entire fleet, but also for carrying large quantities of silk, porcelain, tea, gold, silver, and jewels for trade and tribute. Equipped with advanced navigational instruments such as compasses, odometers, and star boards, the ship provided accurate navigation for long voyages, while its living facilities could accommodate the needs of hundreds of people for extended periods at sea. Zheng He's voyages strengthened China's economic and cultural exchanges with Asian and African countries, promoted the development of friendly relations between China and foreign nations, and spread Chinese culture, allowing the world to learn more about China. It also demonstrated that 15th-century Chinese navigation technology and shipbuilding were at the forefront globally, symbolizing the glorious achievements of ancient Chinese maritime endeavors. The splendid deeds of Zheng He shine brightly in the historical river, inspiring future generations to explore the ocean and pursue progress.</Text>  
 		</Row>  
 		<Row Tag="TXT_KEY_BUILDING_GuoZijian">
-			<Text>国子监</Text>
+			<Text>Guozijian</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_GuoZijian_DESC">
-			<Text>国子监</Text>
+			<Text>Guozijian</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_GuoZijian_HELP">
-			<Text>国子监，替代图书馆，1文学家槽位改为2美术家槽位，额外提供3[ICON_GREAT_PEOPLE]大美术家点数。</Text>
+			<Text>Guozijian, instead of the library, 1 writer slot is changed to 2 artist slots, and an additional 3 [ICON_GREAT_PEOPLE] big artist points are provided.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_GuoZijian_TEXT">
-			<Text>国子监，作为中国古代最高学府与教育管理机构，承载着千年的文化传承与学术底蕴。它庄重典雅，红墙青瓦，飞檐斗拱间尽显古朴之风。
-				  踏入国子监，仿若步入知识的殿堂。辟雍殿居于中心，四周庑房错落有致，藏书楼内典籍浩如烟海，经史子集、天文历算、诗词歌赋等各类书籍应有尽有，它们是华夏文明的智慧结晶。
-				  这里汇聚了天下鸿儒，他们言传身教，将儒家经典、治国之道、为人之理悉心传授给莘莘学子。学子们来自五湖四海，在这片知识的沃土里，切磋学问、砥砺德行，共同探寻修身齐家治国平天下的真理。国子监的存在，为国家培育了一代又一代的栋梁之才，推动着中华文明的繁荣与发展，成为古代教育体系中一颗璀璨的明珠。
+			<Text>Guozijian, as the highest university and educational management institution in ancient China, carries the cultural inheritance and academic heritage of thousands of years. It is solemn and elegant, with red walls and blue tiles and cornices and arches showing the simple style.
+                  Stepping into the Guozijian is like stepping into the palace of knowledge. The Pi Yong Hall is located in the center, surrounded by scattered rooms, and the library is full of ancient books. There are all kinds of books such as historical collections, astronomical calendars, poems and songs, which are the wisdom crystallization of Chinese civilization.
+                  Here are the great Confucians in the world. They teach by word and example, and carefully impart the Confucian classics, the way of governing the country, and the principles of being a human being to the students. The students come from all over the world. In this fertile soil of knowledge, they learn from each other, sharpen their virtues, and jointly explore the truth of cultivating themselves and governing the country and the world. The existence of Guozijian has cultivated generation after generation of talents for the country, promoted the prosperity and development of Chinese civilization, and became a shining pearl in the ancient education system.
 			</Text>
-		</Row>
-		<Row Tag="TXT_KEY_BUILDING_Ming_Dynasty">
-			<Text>大明王朝</Text>
-		</Row>
-		<Row Tag="TXT_KEY_BUILDING_Ming_Dynasty_DESC">
-			<Text>大明王朝</Text>
-		</Row>
-		<Row Tag="TXT_KEY_BUILDING_Ming_Dynasty_HELP">
-			<Text>本城出发商路额外+20[ICON_GOLD]金钱。</Text>
-		</Row>
-		<Row Tag="TXT_KEY_BUILDING_Ming_Dynasty_TEXT">
-			<Text>大明王朝永世长存。</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_ShiBoSi">  
 			<Text>Maritime Trade Office</Text>  
@@ -223,9 +211,9 @@
 		<Row Tag="TXT_KEY_BUILDING_ShiBoSi_DESC">  
 			<Text>Maritime Trade Office</Text>  
 		</Row>  
-		<Row Tag="TXT_KEY_BUILDING_ShiBoSi_HELP">  
-			<Text>The Maritime Trade Office replaces inns and provides an additional +2[ICON_RESEARCH] research for trade routes departing from this city.</Text>  
-		</Row>  
+		<Row Tag="TXT_KEY_BUILDING_ShiBoSi_HELP">
+			<Text>Shiblot Division, Alternative Inn, additional + 10 [ICON_GOLD] money for the departure route from the city. And additional + 2 [ICON_RESEARCH] research and 2% [ICON_RESEARCH] research, which increases with the times</Text>
+		</Row>
 		<Row Tag="TXT_KEY_CIV5_BUILDINGS_ShiBoSi_TEXT">  
 			<Text>The Maritime Trade Office, throughout the historical development of the Ming Dynasty, acts like a shining lighthouse, guiding the prosperous waves of maritime trade. As the official institution managing foreign trade, its establishment opened up vast economic channels for the nation, bringing a continuous influx of wealth and diverse cultural exchanges.  
 			With its unique functions, the Maritime Trade Office greatly promoted the development of coastal port cities. It meticulously managed import and export trade, attracting merchant ships from around the world, allowing Ming Dynasty products like silk, porcelain, and tea to be sold overseas, while also bringing foreign spices, jewelry, and rare goods into the domestic market. This active trade not only injected rich commercial resources into the cities, stimulating local business growth and significantly enhancing economic output, but also spurred the rise of related industries, increasing the demand and circulation of agricultural products like grain and further promoting agricultural development.  
