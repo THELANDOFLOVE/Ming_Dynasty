@@ -8,11 +8,6 @@
 			<Description>TXT_KEY_BUILDING_Ming_PALACE</Description>
 			<MaxGlobalInstances>1</MaxGlobalInstances>
 		</Row>
-		<Row>
-			<Type>BUILDINGCLASS_Ming_Dynasty</Type>
-			<DefaultBuilding>BUILDING_Ming_Dynasty</DefaultBuilding>
-			<Description>TXT_KEY_BUILDING_Ming_Dynasty_DESC</Description>
-		</Row>
 	</BuildingClasses>
 	<Building_FreeUnits>
 	    <Row>
@@ -50,6 +45,20 @@
 			<NumBuildingNeeded>-1</NumBuildingNeeded>
 		</Row>
 	</Building_PrereqBuildingClasses>
+	<Building_TradeRouteFromTheCityYieldsPerEra>
+	    <Row>
+	        <BuildingType>BUILDING_ShiBoSi</BuildingType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<YieldValue>10</YieldValue>
+	    </Row>
+	</Building_TradeRouteFromTheCityYieldsPerEra>
+	<Building_YieldChangesPerEra>
+	    <Row>
+	        <BuildingType>BUILDING_ShiBoSi</BuildingType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>2</Yield>
+	    </Row>
+	</Building_YieldChangesPerEra>
 	<Buildings>
 		<!--大明南京故宫-->
 		<Row>
@@ -120,27 +129,6 @@
 			<PortraitIndex>3</PortraitIndex>
 			<SpecialistType>SPECIALIST_ARTIST</SpecialistType>
 			<GreatPeopleRateChange>3</GreatPeopleRateChange>
-		</Row>
-		<!-- 大明加成 -->
-		<Row>
-			<Type>BUILDING_Ming_Dynasty</Type>
-			<BuildingClass>BUILDINGCLASS_Ming_Dynasty</BuildingClass>
-			<Help>TXT_KEY_BUILDING_Ming_Dynasty_HELP</Help>
-			<Description>TXT_KEY_BUILDING_Ming_Dynasty_DESC</Description>
-			<Civilopedia>TXT_KEY_BUILDING_Ming_Dynasty_TEXT</Civilopedia>
-			<GoldMaintenance>0</GoldMaintenance>
-			<Cost>-1</Cost>
-			<FaithCost>-1</FaithCost>
-			<GreatWorkCount>-1</GreatWorkCount>
-			<NeverCapture>true</NeverCapture>
-			<NukeImmune>1</NukeImmune>
-			<ConquestProb>0</ConquestProb>
-			<HurryCostModifier>-1</HurryCostModifier>
-			<IconAtlas>Ming_Dynasty_ATLAS</IconAtlas>
-			<PortraitIndex>0</PortraitIndex>
-			<DummyBuilding>true</DummyBuilding>
-			<TradeRouteLandGoldBonus>2000</TradeRouteLandGoldBonus>
-			<TradeRouteSeaGoldBonus>2000</TradeRouteSeaGoldBonus>
 		</Row>
 		<!-- 市舶司 -->
 		<Row>
@@ -240,13 +228,13 @@
 			<Flavor>100</Flavor>
 		</Row>		
 	</Building_Flavors>
-	<Building_TradeRouteFromTheCityYields>
+	<Building_YieldModifiersChangesPerEra>
 		<Row>
 			<BuildingType>BUILDING_ShiBoSi</BuildingType>
 			<YieldType>YIELD_SCIENCE</YieldType>
 			<YieldValue>2</YieldValue>
 		</Row>
-	</Building_TradeRouteFromTheCityYields>
+	</Building_YieldModifiersChangesPerEra>
 	<Building_ResourceQuantity>
 	    <Row>
 			<BuildingType>BUILDING_ShiBoSi</BuildingType>

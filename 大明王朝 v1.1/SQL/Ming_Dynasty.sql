@@ -38,15 +38,3 @@ VALUES
 UPDATE UnitClasses 
 SET MaxPlayerInstances = 9999 
 WHERE Type = 'UNITCLASS_ZHENGHE_FLEET';
-INSERT  INTO Building_SpecialistYieldChanges(BuildingType,SpecialistType ,YieldType ,Yield)
-SELECT  'BUILDING_GuoZijian','SPECIALIST_ARTIST','YIELD_SCIENCE',3   WHERE   EXISTS (SELECT * FROM ROG_GlobalUserSettings WHERE Type = 'WORLD_POWER_PATCH' AND Value = 1);
-INSERT  INTO Building_SpecialistYieldChanges(BuildingType,SpecialistType ,YieldType ,Yield)
-SELECT  'BUILDING_GuoZijian','SPECIALIST_ARTIST','YIELD_PRODUCTION',3   WHERE   EXISTS (SELECT * FROM ROG_GlobalUserSettings WHERE Type = 'WORLD_POWER_PATCH' AND Value = 1);
-INSERT  INTO Building_SpecialistYieldChanges(BuildingType,SpecialistType ,YieldType ,Yield)
-SELECT  'BUILDING_GuoZijian','SPECIALIST_ARTIST','YIELD_CULTURE',3   WHERE   EXISTS (SELECT * FROM ROG_GlobalUserSettings WHERE Type = 'WORLD_POWER_PATCH' AND Value = 1);
-INSERT  INTO Building_SpecialistYieldChanges(BuildingType,SpecialistType ,YieldType ,Yield)
-SELECT  'BUILDING_GuoZijian','SPECIALIST_ARTIST','YIELD_DISEASE',-2   WHERE   EXISTS (SELECT * FROM ROG_GlobalUserSettings WHERE Type = 'WORLD_POWER_PATCH' AND Value = 1);
-INSERT  INTO Building_SpecialistYieldChanges(BuildingType,SpecialistType ,YieldType ,Yield)
-SELECT  'BUILDING_GuoZijian','SPECIALIST_ARTIST','YIELD_CRIME',-2   WHERE   EXISTS (SELECT * FROM ROG_GlobalUserSettings WHERE Type = 'WORLD_POWER_PATCH' AND Value = 1);
-INSERT  INTO Building_SpecialistYieldChanges(BuildingType,SpecialistType ,YieldType ,Yield)
-SELECT  'BUILDING_GuoZijian','SPECIALIST_ARTIST','YIELD_GOLD',-2   WHERE   EXISTS (SELECT * FROM ROG_GlobalUserSettings WHERE Type = 'WORLD_POWER_PATCH' AND Value = 1);
