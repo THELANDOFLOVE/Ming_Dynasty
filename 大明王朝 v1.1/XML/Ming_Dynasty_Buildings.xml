@@ -232,7 +232,7 @@
 		<Row>
 			<BuildingType>BUILDING_ShiBoSi</BuildingType>
 			<YieldType>YIELD_SCIENCE</YieldType>
-			<YieldValue>2</YieldValue>
+			<Yield>2</Yield>
 		</Row>
 	</Building_YieldModifiersChangesPerEra>
 	<Building_ResourceQuantity>
