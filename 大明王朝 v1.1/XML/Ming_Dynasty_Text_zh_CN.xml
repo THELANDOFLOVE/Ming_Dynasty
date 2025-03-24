@@ -202,7 +202,7 @@
 			<Text>国子监</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_GuoZijian_HELP">
-			<Text>国子监，替代图书馆，1文学家槽位改为2美术家槽位，额外提供3[ICON_GREAT_PEOPLE]大美术家点数。</Text>
+			<Text>国子监，替代图书馆，1文学家槽位改为2美术家槽位，额外提供3[ICON_GREAT_PEOPLE]大美术家点数，额外增加2[ICON_RESEARCH]科研和2%[ICON_RESEARCH]科研，随时代增加。</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_GuoZijian_TEXT">
 			<Text>国子监，作为中国古代最高学府与教育管理机构，承载着千年的文化传承与学术底蕴。它庄重典雅，红墙青瓦，飞檐斗拱间尽显古朴之风。
@@ -217,7 +217,7 @@
 			<Text>市舶司</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_ShiBoSi_HELP">
-			<Text>市舶司，替代客栈，本城出发商路额外+10[ICON_GOLD]金钱。并且额外+2[ICON_RESEARCH]科研和2%[ICON_RESEARCH]科研，随时代增加</Text>
+			<Text>市舶司，替代客栈，本城出发商路额外+10[ICON_GOLD]金钱和随时代增加的2[ICON_RESEARCH]科研</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_BUILDINGS_ShiBoSi_TEXT">
 			<Text>市舶司，在大明王朝的历史进程中，宛如一座闪耀的灯塔，引领着海上贸易的繁荣浪潮。作为掌管对外贸易的官方机构，它的设立，为国家开辟了广阔的经济航道，带来了源源不断的财富与多元的文化交流。
