@@ -127,9 +127,9 @@
 		<Row Tag="TXT_KEY_PROMOTION_Ming_ShenJiYing_DESC">  
 			<Text>The Ming Dynasty is flourishing, with soldiers bravely at the forefront, fighting like ten men, especially the Divine Machine Camp, which is the sharpest.</Text>  
 		</Row>  
-		<Row Tag="TXT_KEY_PROMOTION_Ming_ShenJiYing_HELP">  
-			<Text>Soldiers of the Divine Machine Camp ignore terrain, no resource scarcity penalty, can move after attacking, +1 attack count, movement, and vision, increase combat strength by 75% when attacking, neighboring friendly units gain 50% combat strength, increase combat strength by 75% when attacking cities, +50% combat strength when defending, fully restore health upon defeating enemies, immune to most negative status effects.</Text>  
-		</Row>  
+		<Row Tag="TXT_KEY_PROMOTION_Ming_ShenJiYing_HELP">
+			<Text>Daming Shenji battalion soldiers ignore the terrain, no lack of resources punishment, can move after the attack, mobile power, vision +1, attack increased by 50% combat effectiveness, adjacent friendly forces increased by 25% combat effectiveness, attack city increased by 50% combat effectiveness, defense increased by 50% combat effectiveness, kill the enemy to restore full blood, immune to most abnormal states</Text>
+		</Row> 
 		<Row Tag="TXT_KEY_PROMOTION_Ming_FoLangJi">  
 			<Text>Thunder of the Divine Land</Text>  
 		</Row>  
@@ -139,9 +139,9 @@
 		<Row Tag="TXT_KEY_PROMOTION_Ming_FoLangJi_DESC">  
 			<Text>The Ming Dynasty is flourishing, with soldiers bravely at the forefront. If the Divine Machine Camp is the sharpest blade, then the Flail is the most powerful hammer, using the most savage assaults to break the enemy's will to fight, creating conditions for the harvesting of the Divine Machine Camp.</Text>  
 		</Row>  
-		<Row Tag="TXT_KEY_PROMOTION_Ming_FoLangJi_HELP">  
-			<Text>The Ming Flail ignores terrain, no resource scarcity penalty, can move after attacking, +1 attack count, range, movement, and vision, increase combat strength by 100% when attacking, neighboring friendly units gain 50% combat strength, increase combat strength by 200% when attacking cities, deal an additional 10% fixed damage with each attack against a city, fully restore health upon defeating enemies, immune to most negative status effects.</Text>  
-		</Row>  
+		<Row Tag="TXT_KEY_PROMOTION_Ming_FoLangJi_HELP">
+			<Text>Daming Fran machine ignore the terrain, no lack of resources punishment, can move after the attack, mobile power +1, attack increased by 50% combat effectiveness, adjacent friendly forces increased by 25% combat effectiveness, attack the city increased by 100% combat effectiveness, each attack on the city caused an additional 10% fixed damage, kill the enemy to restore full blood, immune to most abnormal states</Text>
+		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_Ming_ZhengHeTreasureShip">  
 			<Text>The Son of Heaven Arrives, All Nations Submit</Text>  
 		</Row>  

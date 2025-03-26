@@ -35,9 +35,8 @@
             <CanMoveAfterAttacking>true</CanMoveAfterAttacking>
             <MovesChange>1</MovesChange>
             <VisibilityChange>1</VisibilityChange>
-            <ExtraAttacks>1</ExtraAttacks>
-            <AdjacentMod>50</AdjacentMod>
-            <AttackMod>75</AttackMod>
+            <AdjacentMod>25</AdjacentMod>
+            <AttackMod>50</AttackMod>
             <MilitaryMightMod>300</MilitaryMightMod>
             <CollateralDamageImmune>true</CollateralDamageImmune>
 			<SplashDamageImmune>true</SplashDamageImmune> 
@@ -45,7 +44,7 @@
             <IconAtlas>Ming_Dynasty_ATLAS</IconAtlas>
 			<PortraitIndex>8</PortraitIndex>
             <DefenseMod>50</DefenseMod>
-            <CityAttack>75</CityAttack>
+            <CityAttack>50</CityAttack>
         </Row>
         <!-- 神州轰雷 -->
         <Row>
@@ -60,12 +59,9 @@
             <CannotBeChosen>true</CannotBeChosen>
             <NoResourcePunishment>true</NoResourcePunishment>
             <CanMoveAfterAttacking>true</CanMoveAfterAttacking>
-            <RangeChange>1</RangeChange>
             <MovesChange>1</MovesChange>
-            <VisibilityChange>1</VisibilityChange>
-            <ExtraAttacks>1</ExtraAttacks>
-            <AdjacentMod>50</AdjacentMod>
-            <AttackMod>100</AttackMod>
+            <AdjacentMod>25</AdjacentMod>
+            <AttackMod>50</AttackMod>
             <MilitaryMightMod>300</MilitaryMightMod>
             <CollateralDamageImmune>true</CollateralDamageImmune>
 			<SplashDamageImmune>true</SplashDamageImmune> 
@@ -73,7 +69,7 @@
             <RangeAttackIgnoreLOS>true</RangeAttackIgnoreLOS>
             <IconAtlas>Ming_Dynasty_ATLAS</IconAtlas>
 			<PortraitIndex>9</PortraitIndex>
-            <CityAttack>200</CityAttack>
+            <CityAttack>100</CityAttack>
             <SiegeInflictDamageChangeMaxHPPercent>10</SiegeInflictDamageChangeMaxHPPercent>
         </Row>
         <!-- 天子驾临，万邦臣服 -->
