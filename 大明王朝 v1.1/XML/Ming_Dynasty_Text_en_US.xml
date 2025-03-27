@@ -197,7 +197,7 @@
 			<Text>Guozijian</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_GuoZijian_HELP">
-			<Text>Guozijian, instead of the library, 1 writer slot is changed to 2 artist slots, an additional 3 [ICON_GREAT_PEOPLE] big artist points are provided, and an additional 2 [ICON_RESEARCH] scientific research and 2% [ICON_RESEARCH] scientific research are added with the times.</Text>
+			<Text>Guozijian, instead of the library, 1 writer slot is changed to 2 artist slots, an additional 3 [ICON_GREAT_PEOPLE] big artist points are provided, and an additional 3 [ICON_RESEARCH] scientific research and 3% [ICON_RESEARCH] scientific research are added with the times.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_GuoZijian_TEXT">
 			<Text>Guozijian, as the highest university and educational management institution in ancient China, carries the cultural inheritance and academic heritage of thousands of years. It is solemn and elegant, with red walls and blue tiles and cornices and arches showing the simple style.
@@ -212,7 +212,7 @@
 			<Text>Maritime Trade Office</Text>  
 		</Row>  
 		<Row Tag="TXT_KEY_BUILDING_ShiBoSi_HELP">
-			<Text>Shiblot Division, Alternative Inn, City Departure Route Extra + 10 [ICON_GOLD] Money and 2 [ICON_RESEARCH] Research that increases with the times</Text>
+			<Text>Shiblot Division, Alternative Inn, City Departure Route Extra + 3 [ICON_GOLD] Money and 2 [ICON_RESEARCH] Research that increases with the times</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_BUILDINGS_ShiBoSi_TEXT">  
 			<Text>The Maritime Trade Office, throughout the historical development of the Ming Dynasty, acts like a shining lighthouse, guiding the prosperous waves of maritime trade. As the official institution managing foreign trade, its establishment opened up vast economic channels for the nation, bringing a continuous influx of wealth and diverse cultural exchanges.  
