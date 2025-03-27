@@ -49,7 +49,7 @@
 	    <Row>
 	        <BuildingType>BUILDING_ShiBoSi</BuildingType>
 			<YieldType>YIELD_GOLD</YieldType>
-			<YieldValue>10</YieldValue>
+			<YieldValue>3</YieldValue>
 	    </Row>
 		<Row>
 	        <BuildingType>BUILDING_ShiBoSi</BuildingType>
@@ -61,14 +61,14 @@
 	    <Row>
 	        <BuildingType>BUILDING_GuoZijian</BuildingType>
 			<YieldType>YIELD_SCIENCE</YieldType>
-			<Yield>2</Yield>
+			<Yield>3</Yield>
 	    </Row>
 	</Building_YieldChangesPerEra>
 	<Building_YieldModifiersChangesPerEra>
 		<Row>
 			<BuildingType>BUILDING_GuoZijian</BuildingType>
 			<YieldType>YIELD_SCIENCE</YieldType>
-			<Yield>2</Yield>
+			<Yield>3</Yield>
 		</Row>
 	</Building_YieldModifiersChangesPerEra>
 	<Buildings>
