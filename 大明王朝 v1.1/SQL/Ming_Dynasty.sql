@@ -38,3 +38,6 @@ VALUES
 UPDATE UnitClasses 
 SET MaxPlayerInstances = 9999 
 WHERE Type = 'UNITCLASS_ZHENGHE_FLEET';
+UPDATE Project_Flavors 
+SET Flavor = 999
+WHERE ProjectType = 'PROJECT_ZHENGHE_FLEET';
