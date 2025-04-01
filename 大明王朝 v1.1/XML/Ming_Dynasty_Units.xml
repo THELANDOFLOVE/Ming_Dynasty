@@ -229,27 +229,27 @@
 		<Row>
 			<UnitType>UNIT_Ming_ShenJiYing</UnitType>
 			<FlavorType>FLAVOR_OFFENSE</FlavorType>
-			<Flavor>100</Flavor>
+			<Flavor>999</Flavor>
 		</Row>
 		<Row>
 			<UnitType>UNIT_Ming_ShenJiYing</UnitType>
 			<FlavorType>FLAVOR_DEFENSE</FlavorType>
-			<Flavor>100</Flavor>
+			<Flavor>999</Flavor>
 		</Row>
 		<Row>
 			<UnitType>UNIT_Ming_FoLangJi</UnitType>
 			<FlavorType>FLAVOR_RANGED</FlavorType>
-			<Flavor>100</Flavor>
+			<Flavor>999</Flavor>
 		</Row>
 		<Row>
 			<UnitType>UNIT_Ming_FoLangJi</UnitType>
 			<FlavorType>FLAVOR_OFFENSE</FlavorType>
-			<Flavor>100</Flavor>
+			<Flavor>999</Flavor>
 		</Row>
 		<Row>
 			<UnitType>UNIT_Ming_FoLangJi</UnitType>
 			<FlavorType>FLAVOR_DEFENSE</FlavorType>
-			<Flavor>100</Flavor>
+			<Flavor>999</Flavor>
 		</Row>
 	 </Unit_Flavors>
 	 <Unit_BuildingClassRequireds>
