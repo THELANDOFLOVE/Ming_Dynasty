@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GameData>
+	<!-- 宣德之治-->
+	<Traits>
+		<Row>
+			<Type>TRAIT_Ming_Dynasty_TRAIT</Type>
+			<Description>TXT_KEY_TRAIT_Ming_Dynasty_TRAIT</Description>
+			<ShortDescription>TXT_KEY_TRAIT_Ming_Dynasty_TRAIT_SHORT</ShortDescription>
+			<OthersTradeBonusModifier>100</OthersTradeBonusModifier>
+			<ArtistGoldenAgeTechBoost>true</ArtistGoldenAgeTechBoost>
+		</Row>
+	</Traits>
+</GameData>

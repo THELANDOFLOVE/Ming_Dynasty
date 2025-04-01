@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_LEADER_ZHUZHANJI_FIRSTGREETING">
+			<Text>欢迎！我是朱瞻基，大明王朝的领袖。普天之下,莫非王土。率土之滨,莫非王臣。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ZHUZHANJI_DEFEATED">
+			<Text>即使面临失败，大明也终将永存。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_Ming_Dynasty_DESC">
+			<Text>大明王朝</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_Ming_Dynasty_SHORT_DESC">
+			<Text>大明王朝</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_Ming_Dynasty_ADJECTIVE">
+			<Text>大明王朝的</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ZHUZHANJI">
+			<Text>朱瞻基</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_ZHUZHANJI_NAME">
+			<Text>朱瞻基</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_MAP_Ming_Dynasty_TEXT">
+			<Text>在大明广袤的疆域之上，明宣宗朱瞻基宛如璀璨星辰，熠熠生辉。朱瞻基自幼聪慧，深受祖父朱棣喜爱，在宫廷的熏陶与悉心教导下，他不仅熟稔经史子集，更对治国理政有着深刻的见解。登基之后，朱瞻基展现出卓越的政治才能。他深知百姓乃国之根本，因而推行一系列轻徭薄赋、与民休息的政策，使得历经战乱的百姓得以休养生息，农业生产迅速恢复并蓬勃发展。在朝堂之上，他善于用人，选拔贤能，内阁之中人才济济，君臣同心，与其父亲明仁宗共同开创了政治清明、百姓富足的 “仁宣之治”。朱瞻基亦极具军事谋略。面对北方蒙古部落的侵扰，他御驾亲征，以果敢的决策和英勇的身姿，稳定边疆局势，捍卫了大明的威严与领土完整。在文化领域，朱瞻基更是大力倡导。他热爱绘画，自身绘画技艺精湛，其作品风格独特，意境深远。在他的引领下，宫廷文化艺术蓬勃发展，为后世留下了诸多珍贵的文化遗产。明宣宗朱瞻基，这位伟大的君主，以其雄才大略与仁厚胸怀，将大明王朝推向繁荣昌盛的巅峰，他的功绩如同一座巍峨的丰碑，永远铭刻在历史的长河之中，为后世子孙所敬仰与传颂。
+			[NEWLINE] 我们伟大的君主朱瞻基啊，您的雄才大略如同光芒万丈的太阳，照亮了大明的每一寸土地。在您的引领下，大明的辉煌能否千秋万代，永耀史册？
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_ZHUZHANJI_SUBTITLE">
+			<Text>宣德皇帝</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_ZHUZHANJI_TITLES_1">
+			<Text>明宣宗</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_ZHUZHANJI_HEADING_1">
+			<Text>领袖介绍</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_ZHUZHANJI_TEXT_1">
+			<Text>朱瞻基，明朝第五位皇帝，乃明仁宗朱高炽与诚孝昭皇后张氏之子 。他自幼便展现出非凡的聪慧与英气，深得祖父明成祖朱棣的宠爱与悉心栽培，常随朱棣左右，参与北征与巡幸，在实战与历练中积累军事韬略与治国见识。
+				朱瞻基在位期间，政治上，整顿吏治，任用贤能，完善内阁制度，使得国家行政高效有序。他深知民生之重，推行轻徭薄赋政策，兴修水利，鼓励农桑，极大地促进了经济的繁荣发展，百姓生活富足，社会稳定和谐，与父亲统治时期并称 “仁宣之治”，为明朝的鼎盛奠定了坚实基础。
+				军事上，朱瞻基有着卓越的领导才能。面对内部藩王叛乱，他果断决策，御驾亲征，迅速平定朱高煦之乱，稳定了政局。同时，加强边防建设，有效抵御北方蒙古部落的侵扰，捍卫了国家的领土完整与边疆安宁。
+				文化上，朱瞻基雅好文艺，他不仅擅长书法绘画，对诗词歌赋也颇有造诣，其作品展现出独特的艺术风格与深厚的文化底蕴。在他的大力倡导下，宫廷文化艺术蓬勃发展，呈现出一片繁荣景象，对后世文化传承产生了深远影响。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_ZHUZHANJI_LIVED">
+			<Text>1398 年出生，1435 年驾崩</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_Ming_Dynasty_TRAIT">
+			<Text>[ICON_BULLET]黄金时代中，所有城市的[ICON_RESEARCH]科研增加20%，所有城市行政成本降低75%。
+			      [NEWLINE][ICON_BULLET]开局开启10回合[ICON_GOLDEN_AGE]黄金时代。
+			      [NEWLINE][ICON_BULLET]外来商路收益增加100%。
+				  [NEWLINE][ICON_BULLET]大美术家开启黄金时代时直接获得等同于当前所有可研究科技中中位数一半的科研点数。
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_Ming_Dynasty_TRAIT_SHORT">
+			<Text>宣德之治</Text>
+		</Row>
+		<Row Tag="TXT_KEY_Ming_Dynasty_ANNOUNCE">
+			<Text>大明王朝,宣德之治！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_Ming_Dynasty_EFFECTS">
+			<Text>
+				大明王朝进入了一个崭新的[ICON_GOLDEN_AGE][COLOR_POSITIVE_TEXT]盛世[ENDCOLOR]！
+				[NEWLINE][NEWLINE]所有金钱产出的地块额外+1[ICON_GOLD]金钱产出，全国+20%[ICON_PRODUCTION]产能，[ICON_CULTURE]文化。
+				[NEWLINE]所有城市的[ICON_RESEARCH]科研增加20%，所有城市行政成本降低75%。
+				[NEWLINE]若完成大明南京故宫，则额外增加全国专家+2[ICON_RESEARCH]科研。
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_QianQingGong_PALACE">
+			<Text>乾清宫</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_QianQingGong_PALACE_DESC">
+			<Text>乾清宫</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_QianQingGong_PALACE_HELP">
+			<Text>乾清宫是明清两代皇帝在紫禁城中的主要寝宫，亦是皇帝处理日常政务、召见官员、批阅奏章之地，象征着封建王朝的皇权核心。自明朝永乐十八年建成后，诸多重大决策在此酝酿，无数历史事件在此发生，见证了明清两朝的兴衰荣辱。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_QianQingGong_PALACE_TEXT">
+			<Text>乾清宫建筑宏伟庄重，采用了中国传统宫殿建筑的最高规制，红墙黄瓦，飞檐斗拱，尽显皇家威严。宫殿内部装饰精美，金砖铺地，梁柱雕龙画凤，彰显着无与伦比的尊贵与奢华。这里不仅是皇帝的起居之所，更是王朝权力运行的枢纽，承载着厚重的历史文化，凝聚着古代匠人的高超技艺与智慧结晶。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MING_HUITONGGUAN">
+		    <Text>会同馆</Text>
+		</Row>
+		<!-- Help tags -->
+		<Row Tag="TXT_KEY_BUILDING_MING_HUITONGGUAN_HELP">
+		    <Text>+10[ICON_RES_CONSUMER]商品。[NEWLINE][NEWLINE]获得两条额外的商路和两支免费的商队。[NEWLINE][NEWLINE]必须在文明的所有城市中拥有客栈。建造成本随城市数量增加。</Text>
+		</Row>
+		<!-- Pedia tags -->
+		<Row Tag="TXT_KEY_BUILDING_MING_HUITONGGUAN_PEDIA">
+		    <Text>会同馆在明朝时期扮演着至关重要的角色，它是明朝政府接待外国使节和开展对外贸易的重要场所。这里汇聚了来自四方的奇珍异宝，不同国家的商人、使节在此云集，带来了丰富多样的商品和文化。会同馆的建筑规模宏大，内部设施齐全，不仅有专门的交易场所，还有供使节居住的馆舍，其建筑风格融合了中国传统建筑的典雅和实用性。馆内经常举办各类商业活动和文化交流活动，促进了明朝与世界各国的贸易往来和文化传播。许多外国的珍稀物品如香料、珠宝、药材等通过会同馆流入明朝，而明朝的瓷器、丝绸、茶叶等特产也由此走向世界，为明朝的经济繁荣和文化交流做出了重要贡献。在此过程中，发生了许多有趣的历史故事，一些著名的学者、探险家也在此留下了他们的足迹，见证了当时的繁荣景象。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MING_HUITONGGUAN_STRATEGY">
+		    <Text>会同馆是明朝重要的贸易和外交场所，它极大地促进了明朝的商品流通和对外贸易，同时加强了与周边国家的联系。鉴于其强大的贸易和经济加成，建议将其建造在交通枢纽城市或沿海贸易港口，以便充分发挥其优势。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_Ming_PALACE">
+			<Text>大明南京故宫</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_Ming_PALACE_PEDIA">
+			<Text>
+			大明南京故宫，又称明故宫，始建于元朝至正二十六年（1366 年），是明朝初期的皇家宫殿建筑群，亦是当时世界上最大的宫殿建筑群，有着“世界第一宫殿”的美誉。它坐落于南京城的核心区域，是明朝初期政治、文化的中心。
+			这座宫殿的建造，凝聚了无数能工巧匠的心血与智慧。从选址规划到建筑施工，每一个环节都严格遵循着封建王朝的皇家规制与传统礼仪。它以中轴线为核心，对称布局，前朝后寝，殿宇重重，气势恢宏，彰显出大明王朝初创时的勃勃雄心与无上威严。
+			南京故宫的建筑风格继承了唐宋以来的宫殿建筑传统，并在此基础上加以创新发展。其建筑材料选用精良，工艺精湛，无论是高大的宫殿台基、精美的木雕石刻，还是色彩绚丽的琉璃瓦，都展现出了极高的建筑艺术水准。它不仅是中国古代宫殿建筑的杰出代表，更是中华民族宝贵的历史文化遗产，见证了大明王朝初期的辉煌与荣耀。
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_Ming_PALACE_QUOTE">
+			<Text>[NEWLINE]"高皇帝定鼎金陵，作新宫阙，规制宏壮，为天下本。"[NEWLINE] —— （明）王鏊</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_Ming_PALACE_HELP">
+			<Text>
+				黄金时代长度+50%，在世界会议获得5个额外代表票数，所有城市防御效率+30%，必须在文明的所有城市中拥有城堡。
+			</Text>
+		</Row>
+        <Row Tag="TXT_KEY_PROMOTION_Ming_PALACE">
+			<Text>万国来朝</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_Ming_PALACE_TEXT">
+			<Text>大明王朝的万国来朝</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_Ming_PALACE_DESC">
+			<Text>大明王朝国运昌隆，大明士兵个个奋勇当先，以一当十。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_Ming_PALACE_HELP">
+			<Text>大明将士无视地形，攻击次数、移动力+1，进攻时增加50%战斗力，免疫大部分异常状态</Text>
+		</Row>
+        <Row Tag="TXT_KEY_PROMOTION_Ming_ShenJiYing">
+			<Text>铁血神机</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_Ming_ShenJiYing_TEXT">
+			<Text>大明王朝神机营的铁血神机</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_Ming_ShenJiYing_DESC">
+			<Text>大明王朝国运昌隆，大明士兵个个奋勇当先，以一当十，其中尤以神机营最为锋锐。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_Ming_ShenJiYing_HELP">
+			<Text>大明神机营将士无视地形，无资源不足惩罚，攻击后可移动，移动力、视野+1，进攻时增加50%战斗力，邻近友军增加25%战斗力，进攻城市时增加50%战斗力，防御时增加50%战斗力，杀敌恢复满血，免疫大部分异常状态</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_Ming_FoLangJi">
+			<Text>神州轰雷</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_Ming_FoLangJi_TEXT">
+			<Text>大明王朝佛朗机的神州轰雷</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_Ming_FoLangJi_DESC">
+			<Text>大明王朝国运昌隆，大明士兵个个奋勇当先，如果说神机营是最锋锐的刀锋，那么佛朗机便是最有力的大锤，用最野蛮的攻势，打垮敌人的战斗意志，为神机营的收割创造条件。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_Ming_FoLangJi_HELP">
+			<Text>大明佛朗机无视地形，无资源不足惩罚，攻击后可移动，移动力+1，进攻时增加50%战斗力，邻近友军增加25%战斗力，进攻城市时增加100%战斗力，对城市每次攻击额外造成 10%固定伤害，杀敌恢复满血，免疫大部分异常状态</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_Ming_ZhengHeTreasureShip">
+			<Text>天子驾临，万邦臣服</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_Ming_ZhengHeTreasureShip_TEXT">
+			<Text>大明王朝的天子驾临，万邦臣服</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_Ming_ZhengHeTreasureShip_DESC">
+			<Text>大明王朝国运昌隆，大明士兵个个奋勇当先，以一当十，明海军当属明宣宗朱瞻基亲率的郑和宝船最为勇猛，攻无不克，战无不胜。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_Ming_ZhengHeTreasureShip_HELP">
+			<Text>大明郑和宝船初始生命值+100，[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]在城邦境内[ENDCOLOR]时每回合+50[ICON_INFLUENCE]影响力（数值随时代提升），邻近友军增加50%战斗力，无资源不足惩罚，攻击后可移动，攻击次数、射程、移动力、视野+1，进攻城市时增加100%战斗力，杀敌恢复满血，进攻时额外增加100%[ICON_STRENGTH]战斗力，远程防御时+100%[ICON_STRENGTH]战斗力，免疫大部分异常状态</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_Ming_ShenJiYing">
+			<Text>大明神机营</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_Ming_ShenJiYing_HEADING">
+			<Text>大明神机营</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_Ming_ShenJiYing_TEXT">
+			<Text>神机营是明朝军队中掌管火器的特殊部队，其诞生有着特定的历史背景。元朝末年火药武器在战争中广泛应用，朱元璋在统一战争中意识到火器的巨大威力。到了明成祖朱棣亲征漠北时，基于作战需求，正式组建了神机营，它与五军营、三千营共同构成了京军三大营，成为明朝军队的核心力量。神机营编制严密，士兵分工明确，有操炮手、鸟铳手等不同岗位，且十分注重训练，士兵需熟练掌握火器装填弹药、瞄准射击等使用方法，还要进行队列和战术演练。其武器装备颇为先进，早期装备火铳，在近距离作战杀伤力强；后来鸟铳逐渐成为主要装备，精度和射程更优；此外，还配备了佛郎机炮、红夷大炮等各类火炮，适用于攻城、守城和野战等多种作战场景。在明朝的诸多战争中，神机营表现出色，多次发挥关键作用。明成祖北伐时，如忽兰忽失温之战，神机营列阵齐射，配合骑兵、步兵，给敌人造成重大杀伤；北京保卫战中，在于谦指挥下，神机营凭借火器优势多次击退瓦剌军队，成功保卫北京城。神机营的建立和发展，代表着明朝军事技术和战术的重大进步，使其在火器运用上领先世界，增强了国防实力，威慑了周边。但随着明朝政治腐败、军事制度松弛，财政困难、武器陈旧、士兵训练不足等问题出现，神机营战斗力逐渐下滑，到明朝末年，在与后金（清）的战争中已难以发挥应有作用，屡战屡败。 </Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_Ming_FoLangJi">
+			<Text>大明佛朗机</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_Ming_FoLangJi_HELP">
+			<Text>快速且强大的攻城单位。大明王朝特色单位，替代重炮。拥有神州轰雷晋升，具有间接火力，并且在攻击前不需要进行远程攻击准备。自带破阵1-2级晋升，战斗力远超普通重炮。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_Ming_FoLangJi_HEADING">
+			<Text>大明佛朗机</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_Ming_FoLangJi_TEXT">
+			<Text>大明佛郎机是明朝时期从西方传入并得到广泛应用的一种火器，在明朝军事史中占据着重要地位。“佛郎机”原本是古代中国对葡萄牙、西班牙等西方国家的称呼，而这里所说的佛郎机炮则是因这些国家而得名。15世纪末至16世纪初，葡萄牙人凭借先进的航海技术来到亚洲，他们所携带的佛郎机炮以其独特的设计和优良的性能引起了明朝的关注。佛郎机炮与传统中国火炮不同，它采用了母铳和子铳的结构，母铳是炮身主体，子铳则是可以装填弹药的小型铳管。作战时，先将子铳装填好火药和弹丸，然后依次放入母铳中发射，这种设计大大提高了火炮的射速，相比传统火炮需要较长时间重新装填弹药，佛郎机炮能够在短时间内进行多次射击，极大地增强了火力的持续性。1521年，明朝与葡萄牙在屯门发生冲突，明军在战斗中缴获了一些佛郎机炮，这是明朝首次接触到这种先进火器。此后，明朝的工匠们开始对佛郎机炮进行研究和仿制。由于佛郎机炮的优势明显，明朝政府十分重视，下令进行大规模的仿制和改进。在仿制过程中，明朝工匠结合本国的实际情况和作战需求，对佛郎机炮进行了一些改良，使其更适应明朝军队的作战特点。佛郎机炮在明朝的军事防御和战争中发挥了重要作用。在北方边防，佛郎机炮被大量部署在长城沿线的各个关隘和城堡，用于抵御蒙古等游牧民族的侵扰。其较远的射程和较强的杀伤力，能够有效地阻止敌方骑兵的靠近，增强了边防的防御能力。在东南沿海地区，佛郎机炮则成为抗击倭寇的重要武器。倭寇的船只在佛郎机炮的轰击下，往往遭受重创，无法轻易靠近海岸进行劫掠。此外，在一些大型战役中，如明朝与后金的战争初期，佛郎机炮也曾在战场上发挥过一定作用，给敌方造成了一定的威慑。随着时间的推移，佛郎机炮在明朝军队中的装备数量不断增加，从最初的少量缴获和仿制，逐渐发展成为一种广泛装备的常规火器。它不仅装备了明朝的边防部队和水师，还在一些内地的卫所军队中得到应用。佛郎机炮的传入和应用，对明朝的军事技术和战术产生了深远的影响。它促使明朝军队的作战方式发生了一定的变化，更加注重火器的运用和多兵种的协同作战。同时，佛郎机炮的仿制和生产也推动了明朝火器制造业的发展，培养了一批掌握先进火器制造技术的工匠。然而，到了明朝后期，随着后金（清）的崛起和西方火器技术的进一步发展，佛郎机炮逐渐显得落后。后金军队在与明朝的战争中，也逐渐掌握了火器技术，并且发展出了适合自己的火器战术。而西方的红夷大炮等更先进的火器传入后，佛郎机炮的优势不再明显，但其在明朝历史上的地位和作用依然不可忽视，它见证了明朝与外部世界的军事技术交流，以及明朝在火器发展道路上的一段重要历程。 </Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_Ming_ZhengHeTreasureShip">
+			<Text>[COLOR_YIELD_GOLD]大明郑和宝船[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_Ming_ZhengHeTreasureShip_HELP">
+			<Text>
+				大明王朝最精锐的郑和宝船，相比普通郑和宝船拥有更多能力:
+				[NEWLINE][ICON_BULLET]初始生命值+100，进攻时额外增加100%[ICON_STRENGTH]战斗力，远程防御时+100%[ICON_STRENGTH]战斗力.
+				[NEWLINE][ICON_BULLET]拥有特色晋升天子驾临，万邦臣服.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_Ming_ZhengHeTreasureShip_TEXT">
+			<Text>明朝初期，国力强盛，为加强与海外各国联系、宣扬国威、拓展朝贡贸易，明成祖朱棣于1405年至1433年间，先后七次派遣郑和率领船队从南京出发，远航西太平洋和印度洋，访问超30个国家和地区。郑和宝船作为船队的核心旗舰，在世界航海史上留下了浓墨重彩的一笔。其规模之巨令人惊叹，据史料记载，最大的宝船长四十四丈四尺（约151.8米），宽十八丈（约61.6米），在当时世界上绝无仅有，充分展现了明代高超的造船技艺和强大的国力。宝船建造工艺精湛，船体采用优质的铁力木、杉木等精心选材加工，且运用水密隔舱技术，将船舱分隔成多个独立舱室，大大提高了抗沉性和安全性。船帆巨大，由多片帆布组成，可依风向风力调整，以获取最佳航行动力。宝船功能多样且强大，不仅是郑和等主要官员的座船，承担指挥整个船队航行的重任，还用于装载大量丝绸、瓷器、茶叶、金银珠宝等货物，用于贸易往来和赏赐。船上配备罗盘、计程仪、牵星板等先进航海仪器，为远洋航行提供准确导航定位，同时生活设施完备，可满足数百人长时间航行的生活需求。郑和宝船的远航，加强了中国与亚非各国的经济文化交流，促进了中外友好关系发展，传播了中华文化，让世界更多地了解了中国，也证明了15世纪中国航海技术和造船业处于世界领先地位，是中国古代航海事业辉煌成就的象征，其辉煌事迹历经数百年沧桑，依然在历史长河中闪耀光芒，激励后人不断探索海洋、追求进步。 </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GuoZijian">
+			<Text>国子监</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GuoZijian_DESC">
+			<Text>国子监</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GuoZijian_HELP">
+			<Text>国子监，替代图书馆，1文学家槽位改为2美术家槽位，额外提供3[ICON_GREAT_PEOPLE]大美术家点数，额外增加3[ICON_RESEARCH]科研和3%[ICON_RESEARCH]科研，随时代增加。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GuoZijian_TEXT">
+			<Text>国子监，作为中国古代最高学府与教育管理机构，承载着千年的文化传承与学术底蕴。它庄重典雅，红墙青瓦，飞檐斗拱间尽显古朴之风。
+				  踏入国子监，仿若步入知识的殿堂。辟雍殿居于中心，四周庑房错落有致，藏书楼内典籍浩如烟海，经史子集、天文历算、诗词歌赋等各类书籍应有尽有，它们是华夏文明的智慧结晶。
+				  这里汇聚了天下鸿儒，他们言传身教，将儒家经典、治国之道、为人之理悉心传授给莘莘学子。学子们来自五湖四海，在这片知识的沃土里，切磋学问、砥砺德行，共同探寻修身齐家治国平天下的真理。国子监的存在，为国家培育了一代又一代的栋梁之才，推动着中华文明的繁荣与发展，成为古代教育体系中一颗璀璨的明珠。
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ShiBoSi">
+			<Text>市舶司</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ShiBoSi_DESC">
+			<Text>市舶司</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ShiBoSi_HELP">
+			<Text>市舶司，替代客栈，本城出发商路额外+3[ICON_GOLD]金钱和随时代增加的2[ICON_RESEARCH]科研</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_ShiBoSi_TEXT">
+			<Text>市舶司，在大明王朝的历史进程中，宛如一座闪耀的灯塔，引领着海上贸易的繁荣浪潮。作为掌管对外贸易的官方机构，它的设立，为国家开辟了广阔的经济航道，带来了源源不断的财富与多元的文化交流。
+				  市舶司凭借其独特的职能，极大地促进了沿海港口城市的发展。它精心管理着进出口贸易，吸引着来自世界各地的商船云集，使大明的丝绸、瓷器、茶叶等特产远销海外，同时也让异国的香料、珠宝、珍稀物产流入国内市场。这种活跃的贸易往来，不仅为城市注入了丰富的商业资源，刺激了本地商业的蓬勃发展，显著提升了城市的经济产能，还带动了相关产业的兴起，增加了粮食等物资的需求与流通，进一步促进了农业生产的发展。
+				  无论是繁华的沿海都市，还是因贸易而兴盛的港口小镇，市舶司的影响力无处不在。它打破了地域的限制，跨越海洋的边界，为大明王朝的繁荣昌盛奠定了坚实基础，成为连接中国与世界的重要桥梁，在历史长河中留下了浓墨重彩的一笔。</Text>
+		</Row>
+
+        <Row Tag="TXT_KEY_CITY_NAME_Ming_Dynasty_01">
+			<Text>[COLOR_GREEN]顺天府[ENDCOLOR]</Text>
+		</Row>
+        <Row Tag="TXT_KEY_CITY_NAME_Ming_Dynasty_02">
+			<Text>应天府</Text>
+		</Row>
+        <Row Tag="TXT_KEY_CITY_NAME_Ming_Dynasty_03">
+			<Text>西安府</Text>
+		</Row>
+        <Row Tag="TXT_KEY_CITY_NAME_Ming_Dynasty_04">
+			<Text>成都府</Text>
+		</Row>
+        <Row Tag="TXT_KEY_CITY_NAME_Ming_Dynasty_05">
+			<Text>太原府</Text>
+		</Row>
+        <Row Tag="TXT_KEY_CITY_NAME_Ming_Dynasty_06">
+			<Text>济南府</Text>
+		</Row>
+        <Row Tag="TXT_KEY_CITY_NAME_Ming_Dynasty_07">
+			<Text>开封府</Text>
+		</Row>
+        <Row Tag="TXT_KEY_CITY_NAME_Ming_Dynasty_08">
+			<Text>南昌府</Text>
+		</Row>
+        <Row Tag="TXT_KEY_CITY_NAME_Ming_Dynasty_09">
+			<Text>武昌府</Text>
+		</Row>
+        <Row Tag="TXT_KEY_CITY_NAME_Ming_Dynasty_10">
+			<Text>福州府</Text>
+		</Row>
+        <Row Tag="TXT_KEY_CITY_NAME_Ming_Dynasty_11">
+			<Text>延安府</Text>
+		</Row>
+        <Row Tag="TXT_KEY_CITY_NAME_Ming_Dynasty_12">
+			<Text>汉中府</Text>
+		</Row>
+        <Row Tag="TXT_KEY_CITY_NAME_Ming_Dynasty_13">
+			<Text>平凉府</Text>
+		</Row>
+        <Row Tag="TXT_KEY_CITY_NAME_Ming_Dynasty_14">
+			<Text>大同府</Text>
+		</Row>
+        <Row Tag="TXT_KEY_CITY_NAME_Ming_Dynasty_15">
+			<Text>汾州府</Text>
+		</Row>
+        <Row Tag="TXT_KEY_CITY_NAME_Ming_Dynasty_16">
+			<Text>兖州府</Text>
+		</Row>
+        <Row Tag="TXT_KEY_CITY_NAME_Ming_Dynasty_17">
+			<Text>青州府</Text>
+		</Row>
+        <Row Tag="TXT_KEY_CITY_NAME_Ming_Dynasty_18">
+			<Text>河南府</Text>
+		</Row>
+        <Row Tag="TXT_KEY_CITY_NAME_Ming_Dynasty_19">
+			<Text>卫辉府</Text>
+		</Row>
+        <Row Tag="TXT_KEY_CITY_NAME_Ming_Dynasty_20">
+			<Text>杭州府</Text>
+		</Row>
+        <Row Tag="TXT_KEY_CITY_NAME_Ming_Dynasty_21">
+			<Text>温州府</Text>
+		</Row>
+        <Row Tag="TXT_KEY_CITY_NAME_Ming_Dynasty_22">
+			<Text>嘉兴府</Text>
+		</Row>
+        <Row Tag="TXT_KEY_CITY_NAME_Ming_Dynasty_23">
+			<Text>袁州府</Text>
+		</Row>
+        <Row Tag="TXT_KEY_CITY_NAME_Ming_Dynasty_24">
+			<Text>赣州府</Text>
+		</Row>
+        <Row Tag="TXT_KEY_CITY_NAME_Ming_Dynasty_25">
+			<Text>吉安府</Text>
+		</Row>
+        <Row Tag="TXT_KEY_CITY_NAME_Ming_Dynasty_26">
+			<Text>郧阳府</Text>
+		</Row>
+        <Row Tag="TXT_KEY_CITY_NAME_Ming_Dynasty_27">
+			<Text>汉阳府</Text>
+		</Row>
+        <Row Tag="TXT_KEY_CITY_NAME_Ming_Dynasty_28">
+			<Text>长沙府</Text>
+		</Row>
+        <Row Tag="TXT_KEY_CITY_NAME_Ming_Dynasty_29">
+			<Text>永州府</Text>
+		</Row>
+        <Row Tag="TXT_KEY_CITY_NAME_Ming_Dynasty_30">
+			<Text>岳州府</Text>
+		</Row>
+        <Row Tag="TXT_KEY_CITY_NAME_Ming_Dynasty_31">
+			<Text>嘉定府</Text>
+		</Row>
+        <Row Tag="TXT_KEY_CITY_NAME_Ming_Dynasty_32">
+			<Text>重庆府</Text>
+		</Row>
+        <Row Tag="TXT_KEY_CITY_NAME_Ming_Dynasty_33">
+			<Text>桂林府</Text>
+		</Row>
+        <Row Tag="TXT_KEY_CITY_NAME_Ming_Dynasty_34">
+			<Text>平乐府</Text>
+		</Row>
+        <Row Tag="TXT_KEY_CITY_NAME_Ming_Dynasty_35">
+			<Text>梧州府</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_Ming_Dynasty_36">
+			<Text>延平府</Text>
+		</Row>
+        <Row Tag="TXT_KEY_CITY_NAME_Ming_Dynasty_37">
+			<Text>建宁府</Text>
+		</Row>
+        <Row Tag="TXT_KEY_CITY_NAME_Ming_Dynasty_38">
+			<Text>贵阳府</Text>
+		</Row>
+        <Row Tag="TXT_KEY_CITY_NAME_Ming_Dynasty_39">
+			<Text>云南府</Text>
+		</Row>
+        <Row Tag="TXT_KEY_CITY_NAME_Ming_Dynasty_40">
+			<Text>交州府</Text>
+		</Row>
+        <Row Tag="TXT_KEY_CITY_NAME_Ming_Dynasty_41">
+			<Text>兰陵</Text>
+		</Row>
+        <Row Tag="TXT_KEY_CITY_NAME_Ming_Dynasty_42">
+			<Text>庐州</Text>
+		</Row>
+        <Row Tag="TXT_KEY_CITY_NAME_Ming_Dynasty_43">
+			<Text>徽州</Text>
+		</Row>
+        <Row Tag="TXT_KEY_CITY_NAME_Ming_Dynasty_44">
+			<Text>桐丘</Text>
+		</Row>
+        <Row Tag="TXT_KEY_CITY_NAME_Ming_Dynasty_45">
+			<Text>渝州</Text>
+		</Row>
+        <Row Tag="TXT_KEY_CITY_NAME_Ming_Dynasty_46">
+			<Text>永嘉</Text>
+		</Row>
+        <Row Tag="TXT_KEY_CITY_NAME_Ming_Dynasty_47">
+			<Text>沔阳</Text>
+		</Row>
+        <Row Tag="TXT_KEY_CITY_NAME_Ming_Dynasty_48">
+			<Text>庐陵</Text>
+		</Row>
+        <Row Tag="TXT_KEY_CITY_NAME_Ming_Dynasty_49">
+			<Text>平阳</Text>
+		</Row>
+        <Row Tag="TXT_KEY_CITY_NAME_Ming_Dynasty_50">
+			<Text>河东</Text>
+		</Row>
+        <Row Tag="TXT_KEY_CITY_NAME_Ming_Dynasty_51">
+			<Text>会稽</Text>
+		</Row>
+
+        <Row Tag="TXT_KEY_SPY_NAME_Ming_Dynasty_1">
+			<Text>黎姜</Text>
+		</Row>
+         <Row Tag="TXT_KEY_SPY_NAME_Ming_Dynasty_2">
+			<Text>芈月</Text>
+		</Row>
+         <Row Tag="TXT_KEY_SPY_NAME_Ming_Dynasty_3">
+			<Text>华阳</Text>
+		</Row>
+         <Row Tag="TXT_KEY_SPY_NAME_Ming_Dynasty_4">
+			<Text>貂蝉</Text>
+		</Row>
+         <Row Tag="TXT_KEY_SPY_NAME_Ming_Dynasty_5">
+			<Text>西施</Text>
+		</Row>
+         <Row Tag="TXT_KEY_SPY_NAME_Ming_Dynasty_6">
+			<Text>王昭君</Text>
+		</Row>
+         <Row Tag="TXT_KEY_SPY_NAME_Ming_Dynasty_7">
+			<Text>施妹喜</Text>
+		</Row>
+         <Row Tag="TXT_KEY_SPY_NAME_Ming_Dynasty_8">
+			<Text>甄宓</Text>
+		</Row>
+         <Row Tag="TXT_KEY_SPY_NAME_Ming_Dynasty_9">
+			<Text>墩儿</Text>
+		</Row>
+         <Row Tag="TXT_KEY_SPY_NAME_Ming_Dynasty_10">
+			<Text>段子萱</Text>
+		</Row> 
+		<Row Tag="TXT_KEY_SPY_NAME_Ming_Dynasty_11">
+			<Text>卞玉京</Text>
+		</Row>
+         <Row Tag="TXT_KEY_SPY_NAME_Ming_Dynasty_12">
+			<Text>杜十娘</Text>
+		</Row>
+         <Row Tag="TXT_KEY_SPY_NAME_Ming_Dynasty_13">
+			<Text>刘秋痕</Text>
+		</Row>
+         <Row Tag="TXT_KEY_SPY_NAME_Ming_Dynasty_14">
+			<Text>杨玉环</Text>
+		</Row>
+         <Row Tag="TXT_KEY_SPY_NAME_Ming_Dynasty_15">
+			<Text>赵合德</Text>
+		</Row>
+         <Row Tag="TXT_KEY_SPY_NAME_Ming_Dynasty_16">
+			<Text>王语嫣</Text>
+		</Row>
+         <Row Tag="TXT_KEY_SPY_NAME_Ming_Dynasty_17">
+			<Text>杜采秋</Text>
+		</Row>
+         <Row Tag="TXT_KEY_SPY_NAME_Ming_Dynasty_18">
+			<Text>于仙姬</Text>
+		</Row>
+         <Row Tag="TXT_KEY_SPY_NAME_Ming_Dynasty_19">
+			<Text>李师师</Text>
+		</Row>
+         <Row Tag="TXT_KEY_SPY_NAME_Ming_Dynasty_20">
+			<Text>列克星敦</Text>
+		</Row> 
+		<Row Tag="TXT_KEY_SPY_NAME_Ming_Dynasty_21">
+			<Text>薄姬</Text>
+		</Row>
+         <Row Tag="TXT_KEY_SPY_NAME_Ming_Dynasty_22">
+			<Text>张春华</Text>
+		</Row>
+         <Row Tag="TXT_KEY_SPY_NAME_Ming_Dynasty_23">
+			<Text>湘夫人</Text>
+		</Row>
+         <Row Tag="TXT_KEY_SPY_NAME_Ming_Dynasty_24">
+			<Text>张丽华</Text>
+		</Row>
+         <Row Tag="TXT_KEY_SPY_NAME_Ming_Dynasty_25">
+			<Text>苏妲己</Text>
+		</Row>
+         <Row Tag="TXT_KEY_SPY_NAME_Ming_Dynasty_26">
+			<Text>上官婉儿</Text>
+		</Row>
+         <Row Tag="TXT_KEY_SPY_NAME_Ming_Dynasty_27">
+			<Text>杨欣怡</Text>
+		</Row>
+         <Row Tag="TXT_KEY_SPY_NAME_Ming_Dynasty_28">
+			<Text>陆红雪</Text>
+		</Row>
+         <Row Tag="TXT_KEY_SPY_NAME_Ming_Dynasty_29">
+			<Text>杜惊梅</Text>
+		</Row>
+         <Row Tag="TXT_KEY_SPY_NAME_Ming_Dynasty_30">
+			<Text>娜依莎</Text>
+		</Row> 
+    </Language_zh_CN>
+
+</GameData>
