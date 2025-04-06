@@ -101,5 +101,29 @@
             <MaxHitPointsChange>100</MaxHitPointsChange>
             <RangedDefenseMod>100</RangedDefenseMod>
         </Row>
+        <!-- 北御鞑靼 -->
+        <Row>
+			<Type>PROMOTION_Ming_Dynasty_HDZhao</Type>
+			<Description>TXT_KEY_PROMOTION_Ming_Dynasty_HDZhao</Description>
+			<Help>TXT_KEY_PROMOTION_Ming_Dynasty_HDZhao_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<PortraitIndex>0</PortraitIndex>
+			<IconAtlas>Ming_Dynasty_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_PROMOTION_Ming_Dynasty_HDZhao</PediaEntry>
+			<CanMoveAfterAttacking>true</CanMoveAfterAttacking>
+			<CannotBeChosen>true</CannotBeChosen>
+			<MovesChange>1</MovesChange>
+			<ExtraAttacks>1</ExtraAttacks>
+			<CombatPercent>100</CombatPercent>
+			<MaxHitPointsChange>100</MaxHitPointsChange>
+			<AttackInflictDamageChange>10</AttackInflictDamageChange>
+			<SiegeInflictDamageChange>10</SiegeInflictDamageChange>
+			<ChangeDamageValue>-20</ChangeDamageValue>
+            <SiegeInflictDamageChangeMaxHPPercent>10</SiegeInflictDamageChangeMaxHPPercent>
+			<AttackInflictDamageChangeMaxHPPercent>10</AttackInflictDamageChangeMaxHPPercent>
+            <NoResourcePunishment>true</NoResourcePunishment>
+            <MilitaryMightMod>300</MilitaryMightMod>
+		</Row>
     </UnitPromotions>
 </GameData>

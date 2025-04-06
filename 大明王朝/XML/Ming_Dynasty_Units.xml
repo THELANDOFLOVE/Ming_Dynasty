@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GameData>
+    <Projects>
+		<Row>
+			<Type>PROJECT_Ming_Dynasty_HDZhao</Type>
+			<Description>TXT_KEY_PROJECT_Ming_Dynasty_HDZhao</Description>
+			<Help>TXT_KEY_PROJECT_Ming_Dynasty_HDZhao_HELP</Help>
+			<Civilopedia>TXT_KEY_PROJECT_Ming_Dynasty_HDZhao_PEDIA</Civilopedia>
+			<TechPrereq>TECH_EDUCATION</TechPrereq>
+			<MaxGlobalInstances>1</MaxGlobalInstances>
+			<MaxTeamInstances>1</MaxTeamInstances>
+			<Cost>1000</Cost>
+			<PortraitIndex>29</PortraitIndex>
+			<IconAtlas>SPBalance_ATLAS</IconAtlas>
+			<FreePromotion>PROMOTION_Ming_Dynasty_HDZhao</FreePromotion>
+		</Row>
+	</Projects>
+	<Project_Flavors>
+		<Row>
+			<ProjectType>PROJECT_Ming_Dynasty_HDZhao</ProjectType>
+			<FlavorType>FLAVOR_OFFENSE</FlavorType>
+			<Flavor>999</Flavor>
+		</Row>
+		<Row>
+			<ProjectType>PROJECT_Ming_Dynasty_HDZhao</ProjectType>
+			<FlavorType>FLAVOR_MOBILE</FlavorType>
+			<Flavor>999</Flavor>
+		</Row>
+	</Project_Flavors>
      <Units>
 	      <Row>
 			<Class>UNITCLASS_MUSKETMAN</Class>

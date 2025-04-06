@@ -68,6 +68,21 @@
 				[NEWLINE] If the Daming Nanjing Forbidden City is completed, Additional national experts + 2 [ICON_RESEARCH] scientific research.
 			</Text>
 		</Row>
+		<Row Tag="TXT_KEY_PROJECT_Ming_Dynasty_HDZhao">
+			<Text>[COLOR_YIELD_GOLD]Ming army reform edict[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROJECT_Ming_Dynasty_HDZhao_HELP">
+			<Text>Only the Ming civilization that was under the rule of Xuande and completed the Imperial Palace of Nanjing in the Ming Dynasty could be built. After completion, the national military units were promoted [COLOR_YIELD_GOLD] North Imperial Tartar [ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROJECT_Ming_Dynasty_HDZhao_PEDIA">
+			<Text>Emperor Zhu Zhanji of the Ming Dynasty issued an edict to reform the Ming Army, and the combat effectiveness of the Ming Army has taken on a new look since then。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_Ming_Dynasty_HDZhao">
+			<Text>[COLOR_YIELD_GOLD]Northern Royal Tartar[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_Ming_Dynasty_HDZhao_HELP">
+			<Text>+ 100 HP, + 100% [ICON_STRENGTH] Combat Strength, + 1 Extra Mobility, + 1 Extra Attack Count, No Insufficient Resource Penalty, Movable after Attack, Damage Fixed -20, Attacks Units and Cities Increases Damage Fixed by 10% and Maximum Health Solid Damage by 10%</Text>
+		</Row>
 		<Row Tag="TXT_KEY_BUILDING_QianQingGong_PALACE">
 			<Text>Qianqing Palace</Text>
 		</Row>
