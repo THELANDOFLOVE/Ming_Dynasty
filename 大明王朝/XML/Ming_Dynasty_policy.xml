@@ -61,6 +61,10 @@
 			<PolicyType>POLICY_Ming_Dynasty</PolicyType>
 			<ProjectType>PROJECT_ZHENGHE_FLEET</ProjectType>
 		</Row>
+		<Row>
+			<ProjectType>PROJECT_Ming_Dynasty_HDZhao</ProjectType>
+			<PolicyType>POLICY_Ming_Dynasty_Gold_Age_2</PolicyType>
+		</Row>
 	</Project_PolicyNeeded>
 	<Policy_SpecialistExtraYields>
 	    <Row>

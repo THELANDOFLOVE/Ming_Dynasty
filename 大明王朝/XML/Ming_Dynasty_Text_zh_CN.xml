@@ -67,6 +67,21 @@
 				[NEWLINE]若完成大明南京故宫，则额外增加全国专家+2[ICON_RESEARCH]科研。
 			</Text>
 		</Row>
+		<Row Tag="TXT_KEY_PROJECT_Ming_Dynasty_HDZhao">
+			<Text>[COLOR_YIELD_GOLD]明军改革诏[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROJECT_Ming_Dynasty_HDZhao_HELP">
+			<Text>只有处于宣德之治盛世下且完成了大明南京故宫的明朝文明才能建造，完成以后，全国军事单位获得晋升[COLOR_YIELD_GOLD]北御鞑靼[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROJECT_Ming_Dynasty_HDZhao_PEDIA">
+			<Text>大明皇帝朱瞻基下达诏令进行明军改革，从此明军战斗力焕然一新。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_Ming_Dynasty_HDZhao">
+			<Text>[COLOR_YIELD_GOLD]北御鞑靼[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_Ming_Dynasty_HDZhao_HELP">
+			<Text>+100点血量,+100%[ICON_STRENGTH]战斗力，+1额外移动力，+1额外攻击次数，无资源不足惩罚，攻击后可移动，受到伤害固定-20，攻击单位和城市时增加10固定伤害和10%最大生命固伤</Text>
+		</Row>
 		<Row Tag="TXT_KEY_BUILDING_QianQingGong_PALACE">
 			<Text>乾清宫</Text>
 		</Row>
