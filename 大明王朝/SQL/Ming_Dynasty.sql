@@ -41,3 +41,8 @@ WHERE Type = 'UNITCLASS_ZHENGHE_FLEET';
 UPDATE Project_Flavors 
 SET Flavor = 999
 WHERE ProjectType = 'PROJECT_ZHENGHE_FLEET';
+INSERT OR IGNORE INTO UnitPromotions_UnitCombats(PromotionType, UnitCombatType) 
+SELECT 'PROMOTION_Ming_Dynasty_HDZhao', Type  FROM UnitCombatInfos;
+INSERT  or  IGNORE  INTO Building_SpecialistYieldChanges(BuildingType,SpecialistType ,YieldType ,Yield)
+SELECT  'BUILDING_GuoZijian','SPECIALIST_ARTIST','YIELD_HEALTH' ,3   
+WHERE   EXISTS (SELECT * FROM ROG_GlobalUserSettings WHERE Type = 'WORLD_POWER_PATCH' AND Value = 1);
