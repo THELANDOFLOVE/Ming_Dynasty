@@ -80,7 +80,7 @@
 			<Text>[COLOR_YIELD_GOLD]北御鞑靼[ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_Ming_Dynasty_HDZhao_HELP">
-			<Text>+100点血量,+100%[ICON_STRENGTH]战斗力，+1额外移动力，+1额外攻击次数，无资源不足惩罚，攻击后可移动，受到伤害固定-20，攻击单位和城市时增加10固定伤害和10%最大生命固伤</Text>
+			<Text>+100点血量,+100%[ICON_STRENGTH]战斗力，+1额外移动力，+1额外攻击次数，无资源不足惩罚，攻击后可移动，受到伤害固定-20，攻击单位和城市时增加10固定伤害和10%最大生命固伤，获得隐身和反隐能力</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_QianQingGong_PALACE">
 			<Text>乾清宫</Text>

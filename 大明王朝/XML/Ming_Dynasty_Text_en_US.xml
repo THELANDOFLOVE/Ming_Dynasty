@@ -81,7 +81,7 @@
 			<Text>[COLOR_YIELD_GOLD]Northern Royal Tartar[ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_Ming_Dynasty_HDZhao_HELP">
-			<Text>+ 100 HP, + 100% [ICON_STRENGTH] Combat Strength, + 1 Extra Mobility, + 1 Extra Attack Count, No Insufficient Resource Penalty, Movable after Attack, Damage Fixed -20, Attacks Units and Cities Increases Damage Fixed by 10% and Maximum Health Solid Damage by 10%</Text>
+			<Text>+ 100 HP, + 100% [ICON_STRENGTH] Combat Strength, + 1 Extra Mobility, + 1 Extra Attack Count, No Insufficient Resource Penalty, Movable after Attack, Damage Fixed -20, Attacks Units and Cities Increases Damage Fixed by 10% and Maximum Health Solid Damage by 10%，Acquire stealth and anti-stealth abilities</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_QianQingGong_PALACE">
 			<Text>Qianqing Palace</Text>

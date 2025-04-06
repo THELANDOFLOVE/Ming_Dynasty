@@ -124,6 +124,8 @@
 			<AttackInflictDamageChangeMaxHPPercent>10</AttackInflictDamageChangeMaxHPPercent>
             <NoResourcePunishment>true</NoResourcePunishment>
             <MilitaryMightMod>300</MilitaryMightMod>
+            <Invisible>INVISIBLE_SUBMARINE</Invisible>
+			<SeeInvisible>INVISIBLE_SUBMARINE</SeeInvisible>
 		</Row>
     </UnitPromotions>
 </GameData>
