@@ -29,8 +29,9 @@
         <Mod id="41450919-c52c-406f-8752-5ea34be32b2d" minversion="0" maxversion="999" title="世界强权" />
     </References>
     <Files>
+        <File md5="51b2af2376cd89c5150c94841ad3299e" import="0">SQL/Ming_Dynasty.sql</File>
         <File md5="49f980719c768a64ce675af383bc547c" import="1">ART/Ming_PALACE.dds</File>
-        <File md5="7e5a0b58c21a466a4a4652a03f1fc6e7" import="0">SQL\Ming_Trait.sql</File>
+        <!-- <File md5="7e5a0b58c21a466a4a4652a03f1fc6e7" import="0">SQL\Ming_Trait.sql</File> -->
         <File md5="ec25b5673c5568ecd893efe10ce2b158" import="0">XML/Ming_Dynasty_Civilizations.xml</File>
         <File md5="3af6fe11cd2645e8dd1d4bd5549f1730" import="0">XML/Ming_Dynasty_Leaders.xml</File>
         <File md5="d90aa27916a0e3757ac25e7da31e4725" import="0">XML/Ming_Dynasty_overrides.xml</File>
@@ -67,7 +68,6 @@
         <File md5="bac31605f94579bec0f3106ddd5a86da" import="1">SQL\Ming_Dynasty_MUSIC.sql</File>
         <File md5="3e3b6e93b754069897bd46234a2e8f6b" import="1">ART\MUSIC\Ming_Dynasty.mp3</File>
         <File md5="5bf1dbb2dd655728eda7a62fbba88f71" import="1">XML\Ming_Dynasty_Music.xml</File>
-        <File md5="51b2af2376cd89c5150c94841ad3299e" import="0">SQL/Ming_Dynasty.sql</File>
         <File md5="70d467465577c3874e2f9aa8c36ec6b2" import="0">XML\Ming_Dynasty_policy.xml</File>
         <File md5="72b0f7330979ea6827ce50dc541a9d57" import="0">XML\Ming_Dynasty_Units.xml</File>
         <File md5="7d7af2b1a7d48e001026ed54f3f82915" import="1">ART/Ming_FoLangJi/76mmArtillery.fxsxml</File>
@@ -90,10 +90,10 @@
             <SetDllPath>DLL/CvGameCore_Expansion2.dll</SetDllPath>
         </OnGetDLLPath> -->
         <OnModActivated>
-            <UpdateDatabase>XML\Ming_Dynasty_policy.xml</UpdateDatabase>
-            <UpdateDatabase>SQL\Ming_Trait.sql</UpdateDatabase>
-            <UpdateDatabase>XML\Ming_Dynasty_Units.xml</UpdateDatabase>
             <UpdateDatabase>SQL/Ming_Dynasty.sql</UpdateDatabase>
+            <UpdateDatabase>XML\Ming_Dynasty_policy.xml</UpdateDatabase>
+            <!-- <UpdateDatabase>SQL\Ming_Trait.sql</UpdateDatabase> -->
+            <UpdateDatabase>XML\Ming_Dynasty_Units.xml</UpdateDatabase>
             <UpdateDatabase>XML\Ming_Dynasty_Music.xml</UpdateDatabase>
             <UpdateDatabase>SQL\Ming_Dynasty_MUSIC.sql</UpdateDatabase>
             <UpdateDatabase>XML/Ming_Dynasty_Civilizations.xml</UpdateDatabase>
