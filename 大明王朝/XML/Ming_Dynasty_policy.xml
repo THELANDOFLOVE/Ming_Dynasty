@@ -73,4 +73,10 @@
 			<Yield>2</Yield>
 		</Row>
 	</Policy_SpecialistExtraYields>
+	<Policy_FreePromotions>
+		<Row>
+			<PolicyType>POLICY_Ming_Dynasty_Gold_Age_2</PolicyType>
+			<PromotionType>PROMOTION_Ming_PALACE</PromotionType>
+		</Row>
+	</Policy_FreePromotions>
 </GameData>
